@@ -1,0 +1,148 @@
+@prefix : <http://example.org/university#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:divisionD1-0 rdf:type :Division ;
+    :divisionName "D1-0"^^xsd:string .
+
+:divisionD1-1 rdf:type :Division ;
+    :divisionName "D1-1"^^xsd:string .
+
+:divisionD1-2 rdf:type :Division ;
+    :divisionName "D1-2"^^xsd:string .
+
+:divisionD1-3 rdf:type :Division ;
+    :divisionName "D1-3"^^xsd:string .
+
+:divisionD1-4 rdf:type :Division ;
+    :divisionName "D1-4"^^xsd:string .
+
+:divisionD1-5 rdf:type :Division ;
+    :divisionName "D1-5"^^xsd:string .
+
+:divisionD2-0 rdf:type :Division ;
+    :divisionName "D2-0"^^xsd:string .
+
+:divisionD2-1 rdf:type :Division ;
+    :divisionName "D2-1"^^xsd:string .
+
+:divisionD2-2 rdf:type :Division ;
+    :divisionName "D2-2"^^xsd:string .
+
+:divisionD2-3 rdf:type :Division ;
+    :divisionName "D2-3"^^xsd:string .
+
+:divisionD2-4 rdf:type :Division ;
+    :divisionName "D2-4"^^xsd:string .
+
+:divisionD2-5 rdf:type :Division ;
+    :divisionName "D2-5"^^xsd:string .
+
+:divisionD3-0 rdf:type :Division ;
+    :divisionName "D3-0"^^xsd:string .
+
+:divisionD3-1 rdf:type :Division ;
+    :divisionName "D3-1"^^xsd:string .
+
+:divisionD3-2 rdf:type :Division ;
+    :divisionName "D3-2"^^xsd:string .
+
+:divisionD3-3 rdf:type :Division ;
+    :divisionName "D3-3"^^xsd:string .
+
+:divisionD3-4 rdf:type :Division ;
+    :divisionName "D3-4"^^xsd:string .
+
+:divisionD3-5 rdf:type :Division ;
+    :divisionName "D3-5"^^xsd:string .
+
+:divisionD4-0 rdf:type :Division ;
+    :divisionName "D4-0"^^xsd:string .
+
+:divisionD4-1 rdf:type :Division ;
+    :divisionName "D4-1"^^xsd:string .
+
+:divisionD4-2 rdf:type :Division ;
+    :divisionName "D4-2"^^xsd:string .
+
+:divisionD4-3 rdf:type :Division ;
+    :divisionName "D4-3"^^xsd:string .
+
+:divisionD4-4 rdf:type :Division ;
+    :divisionName "D4-4"^^xsd:string .
+
+:divisionD4-5 rdf:type :Division ;
+    :divisionName "D4-5"^^xsd:string .
+
+:divisionD5-0 rdf:type :Division ;
+    :divisionName "D5-0"^^xsd:string .
+
+:divisionD5-1 rdf:type :Division ;
+    :divisionName "D5-1"^^xsd:string .
+
+:divisionD5-2 rdf:type :Division ;
+    :divisionName "D5-2"^^xsd:string .
+
+:divisionD5-3 rdf:type :Division ;
+    :divisionName "D5-3"^^xsd:string .
+
+:divisionD5-4 rdf:type :Division ;
+    :divisionName "D5-4"^^xsd:string .
+
+:divisionD5-5 rdf:type :Division ;
+    :divisionName "D5-5"^^xsd:string .
+
+:divisionD6-0 rdf:type :Division ;
+    :divisionName "D6-0"^^xsd:string .
+
+:divisionD6-1 rdf:type :Division ;
+    :divisionName "D6-1"^^xsd:string .
+
+:divisionD6-2 rdf:type :Division ;
+    :divisionName "D6-2"^^xsd:string .
+
+:divisionD6-3 rdf:type :Division ;
+    :divisionName "D6-3"^^xsd:string .
+
+:divisionD6-4 rdf:type :Division ;
+    :divisionName "D6-4"^^xsd:string .
+
+:divisionD6-5 rdf:type :Division ;
+    :divisionName "D6-5"^^xsd:string .
+
+:divisionD7-0 rdf:type :Division ;
+    :divisionName "D7-0"^^xsd:string .
+
+:divisionD7-1 rdf:type :Division ;
+    :divisionName "D7-1"^^xsd:string .
+
+:divisionD7-2 rdf:type :Division ;
+    :divisionName "D7-2"^^xsd:string .
+
+:divisionD7-3 rdf:type :Division ;
+    :divisionName "D7-3"^^xsd:string .
+
+:divisionD7-4 rdf:type :Division ;
+    :divisionName "D7-4"^^xsd:string .
+
+:divisionD7-5 rdf:type :Division ;
+    :divisionName "D7-5"^^xsd:string .
+
+:divisionD8-0 rdf:type :Division ;
+    :divisionName "D8-0"^^xsd:string .
+
+:divisionD8-1 rdf:type :Division ;
+    :divisionName "D8-1"^^xsd:string .
+
+:divisionD8-2 rdf:type :Division ;
+    :divisionName "D8-2"^^xsd:string .
+
+:divisionD8-3 rdf:type :Division ;
+    :divisionName "D8-3"^^xsd:string .
+
+:divisionD8-4 rdf:type :Division ;
+    :divisionName "D8-4"^^xsd:string .
+
+:divisionD8-5 rdf:type :Division ;
+    :divisionName "D8-5"^^xsd:string .
+

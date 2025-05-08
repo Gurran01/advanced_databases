@@ -1,0 +1,25 @@
+Fixat som ttl:
+    - Entities:
+        - Teacher:
+            - Assistant
+            - SeniorTeachers
+        - Students
+        - Programs
+        - Program Courses
+        - Program
+        - Division
+        - Department
+        - Courses
+        - CourseInstance
+        
+
+    - Relations:
+        - Registrations
+        - CourseInstanceStaff
+        - CourseDivision
+        - 
+
+
+Ska fixas som ttl:
+    - Relations:
+        - Program 

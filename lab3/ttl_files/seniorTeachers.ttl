@@ -1,0 +1,124 @@
+@prefix : <http://example.org/university#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:seniorTeachers19630126-0001 rdf:type :SeniorTeachers ;
+    :teacherId "19630126-0001"^^xsd:string ;
+    :teacherName "Teacher 1"^^xsd:string .
+
+:seniorTeachers19600814-0002 rdf:type :SeniorTeachers ;
+    :teacherId "19600814-0002"^^xsd:string ;
+    :teacherName "Teacher 2"^^xsd:string .
+
+:seniorTeachers19600905-0003 rdf:type :SeniorTeachers ;
+    :teacherId "19600905-0003"^^xsd:string ;
+    :teacherName "Teacher 3"^^xsd:string .
+
+:seniorTeachers19590129-0004 rdf:type :SeniorTeachers ;
+    :teacherId "19590129-0004"^^xsd:string ;
+    :teacherName "Teacher 4"^^xsd:string .
+
+:seniorTeachers19610623-0005 rdf:type :SeniorTeachers ;
+    :teacherId "19610623-0005"^^xsd:string ;
+    :teacherName "Teacher 5"^^xsd:string .
+
+:seniorTeachers19610620-0006 rdf:type :SeniorTeachers ;
+    :teacherId "19610620-0006"^^xsd:string ;
+    :teacherName "Teacher 6"^^xsd:string .
+
+:seniorTeachers19580218-0007 rdf:type :SeniorTeachers ;
+    :teacherId "19580218-0007"^^xsd:string ;
+    :teacherName "Teacher 7"^^xsd:string .
+
+:seniorTeachers19570828-0008 rdf:type :SeniorTeachers ;
+    :teacherId "19570828-0008"^^xsd:string ;
+    :teacherName "Teacher 8"^^xsd:string .
+
+:seniorTeachers19690408-0009 rdf:type :SeniorTeachers ;
+    :teacherId "19690408-0009"^^xsd:string ;
+    :teacherName "Teacher 9"^^xsd:string .
+
+:seniorTeachers19560612-0010 rdf:type :SeniorTeachers ;
+    :teacherId "19560612-0010"^^xsd:string ;
+    :teacherName "Teacher 10"^^xsd:string .
+
+:seniorTeachers19570615-0011 rdf:type :SeniorTeachers ;
+    :teacherId "19570615-0011"^^xsd:string ;
+    :teacherName "Teacher 11"^^xsd:string .
+
+:seniorTeachers19570826-0012 rdf:type :SeniorTeachers ;
+    :teacherId "19570826-0012"^^xsd:string ;
+    :teacherName "Teacher 12"^^xsd:string .
+
+:seniorTeachers19640414-0013 rdf:type :SeniorTeachers ;
+    :teacherId "19640414-0013"^^xsd:string ;
+    :teacherName "Teacher 13"^^xsd:string .
+
+:seniorTeachers19611219-0014 rdf:type :SeniorTeachers ;
+    :teacherId "19611219-0014"^^xsd:string ;
+    :teacherName "Teacher 14"^^xsd:string .
+
+:seniorTeachers19690513-0015 rdf:type :SeniorTeachers ;
+    :teacherId "19690513-0015"^^xsd:string ;
+    :teacherName "Teacher 15"^^xsd:string .
+
+:seniorTeachers19560812-0016 rdf:type :SeniorTeachers ;
+    :teacherId "19560812-0016"^^xsd:string ;
+    :teacherName "Teacher 16"^^xsd:string .
+
+:seniorTeachers19580515-0017 rdf:type :SeniorTeachers ;
+    :teacherId "19580515-0017"^^xsd:string ;
+    :teacherName "Teacher 17"^^xsd:string .
+
+:seniorTeachers19601021-0018 rdf:type :SeniorTeachers ;
+    :teacherId "19601021-0018"^^xsd:string ;
+    :teacherName "Teacher 18"^^xsd:string .
+
+:seniorTeachers19650303-0019 rdf:type :SeniorTeachers ;
+    :teacherId "19650303-0019"^^xsd:string ;
+    :teacherName "Teacher 19"^^xsd:string .
+
+:seniorTeachers19660630-0020 rdf:type :SeniorTeachers ;
+    :teacherId "19660630-0020"^^xsd:string ;
+    :teacherName "Teacher 20"^^xsd:string .
+
+:seniorTeachers19600529-0021 rdf:type :SeniorTeachers ;
+    :teacherId "19600529-0021"^^xsd:string ;
+    :teacherName "Teacher 21"^^xsd:string .
+
+:seniorTeachers19690917-0022 rdf:type :SeniorTeachers ;
+    :teacherId "19690917-0022"^^xsd:string ;
+    :teacherName "Teacher 22"^^xsd:string .
+
+:seniorTeachers19620522-0023 rdf:type :SeniorTeachers ;
+    :teacherId "19620522-0023"^^xsd:string ;
+    :teacherName "Teacher 23"^^xsd:string .
+
+:seniorTeachers19620831-0024 rdf:type :SeniorTeachers ;
+    :teacherId "19620831-0024"^^xsd:string ;
+    :teacherName "Teacher 24"^^xsd:string .
+
+:seniorTeachers19560705-0025 rdf:type :SeniorTeachers ;
+    :teacherId "19560705-0025"^^xsd:string ;
+    :teacherName "Teacher 25"^^xsd:string .
+
+:seniorTeachers19620424-0026 rdf:type :SeniorTeachers ;
+    :teacherId "19620424-0026"^^xsd:string ;
+    :teacherName "Teacher 26"^^xsd:string .
+
+:seniorTeachers19610918-0027 rdf:type :SeniorTeachers ;
+    :teacherId "19610918-0027"^^xsd:string ;
+    :teacherName "Teacher 27"^^xsd:string .
+
+:seniorTeachers19680712-0028 rdf:type :SeniorTeachers ;
+    :teacherId "19680712-0028"^^xsd:string ;
+    :teacherName "Teacher 28"^^xsd:string .
+
+:seniorTeachers19640220-0029 rdf:type :SeniorTeachers ;
+    :teacherId "19640220-0029"^^xsd:string ;
+    :teacherName "Teacher 29"^^xsd:string .
+
+:seniorTeachers19561222-0030 rdf:type :SeniorTeachers ;
+    :teacherId "19561222-0030"^^xsd:string ;
+    :teacherName "Teacher 30"^^xsd:string .
+

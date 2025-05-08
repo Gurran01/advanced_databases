@@ -1,0 +1,4732 @@
+@prefix : <http://example.org/university#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10001 rdf:type :Programme ;
+    :programmeCode "10001"^^xsd:integer ;
+    :programmeName "P-01"^^xsd:string ;
+    :director :seniorTeacher19620522-0023 ;
+    :programDivision :divisionD1 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10011 rdf:type :Programme ;
+    :programmeCode "10011"^^xsd:integer ;
+    :programmeName "P-11"^^xsd:string ;
+    :director :seniorTeacher19620424-0026 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10012 rdf:type :Programme ;
+    :programmeCode "10012"^^xsd:integer ;
+    :programmeName "P-12"^^xsd:string ;
+    :director :seniorTeacher19610623-0005 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10013 rdf:type :Programme ;
+    :programmeCode "10013"^^xsd:integer ;
+    :programmeName "P-13"^^xsd:string ;
+    :director :seniorTeacher19690408-0009 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10014 rdf:type :Programme ;
+    :programmeCode "10014"^^xsd:integer ;
+    :programmeName "P-14"^^xsd:string ;
+    :director :seniorTeacher19560812-0016 ;
+    :programDivision :divisionD2 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10021 rdf:type :Programme ;
+    :programmeCode "10021"^^xsd:integer ;
+    :programmeName "P-21"^^xsd:string ;
+    :director :seniorTeacher19570615-0011 ;
+    :programDivision :divisionD3 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10031 rdf:type :Programme ;
+    :programmeCode "10031"^^xsd:integer ;
+    :programmeName "P-31"^^xsd:string ;
+    :director :seniorTeacher19650303-0019 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10032 rdf:type :Programme ;
+    :programmeCode "10032"^^xsd:integer ;
+    :programmeName "P-32"^^xsd:string ;
+    :director :seniorTeacher19570826-0012 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10033 rdf:type :Programme ;
+    :programmeCode "10033"^^xsd:integer ;
+    :programmeName "P-33"^^xsd:string ;
+    :director :seniorTeacher19570828-0008 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10034 rdf:type :Programme ;
+    :programmeCode "10034"^^xsd:integer ;
+    :programmeName "P-34"^^xsd:string ;
+    :director :seniorTeacher19610918-0027 ;
+    :programDivision :divisionD4 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10041 rdf:type :Programme ;
+    :programmeCode "10041"^^xsd:integer ;
+    :programmeName "P-41"^^xsd:string ;
+    :director :seniorTeacher19580218-0007 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10042 rdf:type :Programme ;
+    :programmeCode "10042"^^xsd:integer ;
+    :programmeName "P-42"^^xsd:string ;
+    :director :seniorTeacher19620831-0024 ;
+    :programDivision :divisionD5 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10051 rdf:type :Programme ;
+    :programmeCode "10051"^^xsd:integer ;
+    :programmeName "P-51"^^xsd:string ;
+    :director :seniorTeacher19580515-0017 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10052 rdf:type :Programme ;
+    :programmeCode "10052"^^xsd:integer ;
+    :programmeName "P-52"^^xsd:string ;
+    :director :seniorTeacher19611219-0014 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10053 rdf:type :Programme ;
+    :programmeCode "10053"^^xsd:integer ;
+    :programmeName "P-53"^^xsd:string ;
+    :director :seniorTeacher19600905-0003 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10054 rdf:type :Programme ;
+    :programmeCode "10054"^^xsd:integer ;
+    :programmeName "P-54"^^xsd:string ;
+    :director :seniorTeacher19630126-0001 ;
+    :programDivision :divisionD6 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10061 rdf:type :Programme ;
+    :programmeCode "10061"^^xsd:integer ;
+    :programmeName "P-61"^^xsd:string ;
+    :director :seniorTeacher19680712-0028 ;
+    :programDivision :divisionD7 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10071 rdf:type :Programme ;
+    :programmeCode "10071"^^xsd:integer ;
+    :programmeName "P-71"^^xsd:string ;
+    :director :seniorTeacher19610620-0006 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10072 rdf:type :Programme ;
+    :programmeCode "10072"^^xsd:integer ;
+    :programmeName "P-72"^^xsd:string ;
+    :director :seniorTeacher19660630-0020 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10073 rdf:type :Programme ;
+    :programmeCode "10073"^^xsd:integer ;
+    :programmeName "P-73"^^xsd:string ;
+    :director :seniorTeacher19600814-0002 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+
+:programme10074 rdf:type :Programme ;
+    :programmeCode "10074"^^xsd:integer ;
+    :programmeName "P-74"^^xsd:string ;
+    :director :seniorTeacher19601021-0018 ;
+    :programDivision :divisionD8 .
+

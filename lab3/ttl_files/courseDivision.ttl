@@ -1,0 +1,1204 @@
+@prefix : <http://example.org/university#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:course_1001_D4-5 rdf:type :courseDivision ;
+    :courseCode :course"1001"^^xsd:string ;
+    :division :division"D4-5"^^xsd:string .
+
+:course_1002_D6-5 rdf:type :courseDivision ;
+    :courseCode :course"1002"^^xsd:string ;
+    :division :division"D6-5"^^xsd:string .
+
+:course_1003_D5-3 rdf:type :courseDivision ;
+    :courseCode :course"1003"^^xsd:string ;
+    :division :division"D5-3"^^xsd:string .
+
+:course_1004_D7-2 rdf:type :courseDivision ;
+    :courseCode :course"1004"^^xsd:string ;
+    :division :division"D7-2"^^xsd:string .
+
+:course_1005_D6-2 rdf:type :courseDivision ;
+    :courseCode :course"1005"^^xsd:string ;
+    :division :division"D6-2"^^xsd:string .
+
+:course_1006_D8-3 rdf:type :courseDivision ;
+    :courseCode :course"1006"^^xsd:string ;
+    :division :division"D8-3"^^xsd:string .
+
+:course_1007_D7-1 rdf:type :courseDivision ;
+    :courseCode :course"1007"^^xsd:string ;
+    :division :division"D7-1"^^xsd:string .
+
+:course_1008_D5-3 rdf:type :courseDivision ;
+    :courseCode :course"1008"^^xsd:string ;
+    :division :division"D5-3"^^xsd:string .
+
+:course_1009_D7-1 rdf:type :courseDivision ;
+    :courseCode :course"1009"^^xsd:string ;
+    :division :division"D7-1"^^xsd:string .
+
+:course_1010_D5-5 rdf:type :courseDivision ;
+    :courseCode :course"1010"^^xsd:string ;
+    :division :division"D5-5"^^xsd:string .
+
+:course_1011_D2-3 rdf:type :courseDivision ;
+    :courseCode :course"1011"^^xsd:string ;
+    :division :division"D2-3"^^xsd:string .
+
+:course_1012_D5-2 rdf:type :courseDivision ;
+    :courseCode :course"1012"^^xsd:string ;
+    :division :division"D5-2"^^xsd:string .
+
+:course_1013_D3-3 rdf:type :courseDivision ;
+    :courseCode :course"1013"^^xsd:string ;
+    :division :division"D3-3"^^xsd:string .
+
+:course_1014_D8-5 rdf:type :courseDivision ;
+    :courseCode :course"1014"^^xsd:string ;
+    :division :division"D8-5"^^xsd:string .
+
+:course_1015_D5-5 rdf:type :courseDivision ;
+    :courseCode :course"1015"^^xsd:string ;
+    :division :division"D5-5"^^xsd:string .
+
+:course_1016_D2-2 rdf:type :courseDivision ;
+    :courseCode :course"1016"^^xsd:string ;
+    :division :division"D2-2"^^xsd:string .
+
+:course_1017_D7-1 rdf:type :courseDivision ;
+    :courseCode :course"1017"^^xsd:string ;
+    :division :division"D7-1"^^xsd:string .
+
+:course_1018_D2-2 rdf:type :courseDivision ;
+    :courseCode :course"1018"^^xsd:string ;
+    :division :division"D2-2"^^xsd:string .
+
+:course_1019_D8-2 rdf:type :courseDivision ;
+    :courseCode :course"1019"^^xsd:string ;
+    :division :division"D8-2"^^xsd:string .
+
+:course_1020_D7-0 rdf:type :courseDivision ;
+    :courseCode :course"1020"^^xsd:string ;
+    :division :division"D7-0"^^xsd:string .
+
+:course_1021_D8-5 rdf:type :courseDivision ;
+    :courseCode :course"1021"^^xsd:string ;
+    :division :division"D8-5"^^xsd:string .
+
+:course_1022_D5-2 rdf:type :courseDivision ;
+    :courseCode :course"1022"^^xsd:string ;
+    :division :division"D5-2"^^xsd:string .
+
+:course_1023_D8-3 rdf:type :courseDivision ;
+    :courseCode :course"1023"^^xsd:string ;
+    :division :division"D8-3"^^xsd:string .
+
+:course_1024_D2-1 rdf:type :courseDivision ;
+    :courseCode :course"1024"^^xsd:string ;
+    :division :division"D2-1"^^xsd:string .
+
+:course_1025_D1-0 rdf:type :courseDivision ;
+    :courseCode :course"1025"^^xsd:string ;
+    :division :division"D1-0"^^xsd:string .
+
+:course_1026_D7-5 rdf:type :courseDivision ;
+    :courseCode :course"1026"^^xsd:string ;
+    :division :division"D7-5"^^xsd:string .
+
+:course_1027_D1-5 rdf:type :courseDivision ;
+    :courseCode :course"1027"^^xsd:string ;
+    :division :division"D1-5"^^xsd:string .
+
+:course_1028_D7-2 rdf:type :courseDivision ;
+    :courseCode :course"1028"^^xsd:string ;
+    :division :division"D7-2"^^xsd:string .
+
+:course_1029_D8-3 rdf:type :courseDivision ;
+    :courseCode :course"1029"^^xsd:string ;
+    :division :division"D8-3"^^xsd:string .
+
+:course_1030_D5-5 rdf:type :courseDivision ;
+    :courseCode :course"1030"^^xsd:string ;
+    :division :division"D5-5"^^xsd:string .
+
+:course_1031_D5-4 rdf:type :courseDivision ;
+    :courseCode :course"1031"^^xsd:string ;
+    :division :division"D5-4"^^xsd:string .
+
+:course_1032_D6-0 rdf:type :courseDivision ;
+    :courseCode :course"1032"^^xsd:string ;
+    :division :division"D6-0"^^xsd:string .
+
+:course_1033_D5-0 rdf:type :courseDivision ;
+    :courseCode :course"1033"^^xsd:string ;
+    :division :division"D5-0"^^xsd:string .
+
+:course_1034_D2-2 rdf:type :courseDivision ;
+    :courseCode :course"1034"^^xsd:string ;
+    :division :division"D2-2"^^xsd:string .
+
+:course_1035_D4-4 rdf:type :courseDivision ;
+    :courseCode :course"1035"^^xsd:string ;
+    :division :division"D4-4"^^xsd:string .
+
+:course_1036_D8-2 rdf:type :courseDivision ;
+    :courseCode :course"1036"^^xsd:string ;
+    :division :division"D8-2"^^xsd:string .
+
+:course_1037_D3-2 rdf:type :courseDivision ;
+    :courseCode :course"1037"^^xsd:string ;
+    :division :division"D3-2"^^xsd:string .
+
+:course_1038_D3-4 rdf:type :courseDivision ;
+    :courseCode :course"1038"^^xsd:string ;
+    :division :division"D3-4"^^xsd:string .
+
+:course_1039_D8-5 rdf:type :courseDivision ;
+    :courseCode :course"1039"^^xsd:string ;
+    :division :division"D8-5"^^xsd:string .
+
+:course_1040_D7-1 rdf:type :courseDivision ;
+    :courseCode :course"1040"^^xsd:string ;
+    :division :division"D7-1"^^xsd:string .
+
+:course_1041_D7-1 rdf:type :courseDivision ;
+    :courseCode :course"1041"^^xsd:string ;
+    :division :division"D7-1"^^xsd:string .
+
+:course_1042_D5-0 rdf:type :courseDivision ;
+    :courseCode :course"1042"^^xsd:string ;
+    :division :division"D5-0"^^xsd:string .
+
+:course_1043_D8-2 rdf:type :courseDivision ;
+    :courseCode :course"1043"^^xsd:string ;
+    :division :division"D8-2"^^xsd:string .
+
+:course_1044_D7-5 rdf:type :courseDivision ;
+    :courseCode :course"1044"^^xsd:string ;
+    :division :division"D7-5"^^xsd:string .
+
+:course_1045_D2-5 rdf:type :courseDivision ;
+    :courseCode :course"1045"^^xsd:string ;
+    :division :division"D2-5"^^xsd:string .
+
+:course_1046_D5-4 rdf:type :courseDivision ;
+    :courseCode :course"1046"^^xsd:string ;
+    :division :division"D5-4"^^xsd:string .
+
+:course_1047_D2-2 rdf:type :courseDivision ;
+    :courseCode :course"1047"^^xsd:string ;
+    :division :division"D2-2"^^xsd:string .
+
+:course_1048_D6-5 rdf:type :courseDivision ;
+    :courseCode :course"1048"^^xsd:string ;
+    :division :division"D6-5"^^xsd:string .
+
+:course_1049_D5-2 rdf:type :courseDivision ;
+    :courseCode :course"1049"^^xsd:string ;
+    :division :division"D5-2"^^xsd:string .
+
+:course_1050_D1-1 rdf:type :courseDivision ;
+    :courseCode :course"1050"^^xsd:string ;
+    :division :division"D1-1"^^xsd:string .
+
+:course_1051_D2-0 rdf:type :courseDivision ;
+    :courseCode :course"1051"^^xsd:string ;
+    :division :division"D2-0"^^xsd:string .
+
+:course_1052_D1-0 rdf:type :courseDivision ;
+    :courseCode :course"1052"^^xsd:string ;
+    :division :division"D1-0"^^xsd:string .
+
+:course_1053_D4-1 rdf:type :courseDivision ;
+    :courseCode :course"1053"^^xsd:string ;
+    :division :division"D4-1"^^xsd:string .
+
+:course_1054_D7-1 rdf:type :courseDivision ;
+    :courseCode :course"1054"^^xsd:string ;
+    :division :division"D7-1"^^xsd:string .
+
+:course_1055_D1-0 rdf:type :courseDivision ;
+    :courseCode :course"1055"^^xsd:string ;
+    :division :division"D1-0"^^xsd:string .
+
+:course_1056_D1-1 rdf:type :courseDivision ;
+    :courseCode :course"1056"^^xsd:string ;
+    :division :division"D1-1"^^xsd:string .
+
+:course_1057_D7-2 rdf:type :courseDivision ;
+    :courseCode :course"1057"^^xsd:string ;
+    :division :division"D7-2"^^xsd:string .
+
+:course_1058_D7-3 rdf:type :courseDivision ;
+    :courseCode :course"1058"^^xsd:string ;
+    :division :division"D7-3"^^xsd:string .
+
+:course_1059_D3-4 rdf:type :courseDivision ;
+    :courseCode :course"1059"^^xsd:string ;
+    :division :division"D3-4"^^xsd:string .
+
+:course_1060_D5-1 rdf:type :courseDivision ;
+    :courseCode :course"1060"^^xsd:string ;
+    :division :division"D5-1"^^xsd:string .
+
+:course_1061_D3-4 rdf:type :courseDivision ;
+    :courseCode :course"1061"^^xsd:string ;
+    :division :division"D3-4"^^xsd:string .
+
+:course_1062_D1-1 rdf:type :courseDivision ;
+    :courseCode :course"1062"^^xsd:string ;
+    :division :division"D1-1"^^xsd:string .
+
+:course_1063_D4-1 rdf:type :courseDivision ;
+    :courseCode :course"1063"^^xsd:string ;
+    :division :division"D4-1"^^xsd:string .
+
+:course_1064_D5-5 rdf:type :courseDivision ;
+    :courseCode :course"1064"^^xsd:string ;
+    :division :division"D5-5"^^xsd:string .
+
+:course_1065_D6-5 rdf:type :courseDivision ;
+    :courseCode :course"1065"^^xsd:string ;
+    :division :division"D6-5"^^xsd:string .
+
+:course_1066_D1-2 rdf:type :courseDivision ;
+    :courseCode :course"1066"^^xsd:string ;
+    :division :division"D1-2"^^xsd:string .
+
+:course_1067_D2-3 rdf:type :courseDivision ;
+    :courseCode :course"1067"^^xsd:string ;
+    :division :division"D2-3"^^xsd:string .
+
+:course_1068_D8-3 rdf:type :courseDivision ;
+    :courseCode :course"1068"^^xsd:string ;
+    :division :division"D8-3"^^xsd:string .
+
+:course_1069_D8-4 rdf:type :courseDivision ;
+    :courseCode :course"1069"^^xsd:string ;
+    :division :division"D8-4"^^xsd:string .
+
+:course_1070_D8-2 rdf:type :courseDivision ;
+    :courseCode :course"1070"^^xsd:string ;
+    :division :division"D8-2"^^xsd:string .
+
+:course_1071_D8-5 rdf:type :courseDivision ;
+    :courseCode :course"1071"^^xsd:string ;
+    :division :division"D8-5"^^xsd:string .
+
+:course_1072_D8-3 rdf:type :courseDivision ;
+    :courseCode :course"1072"^^xsd:string ;
+    :division :division"D8-3"^^xsd:string .
+
+:course_1073_D2-3 rdf:type :courseDivision ;
+    :courseCode :course"1073"^^xsd:string ;
+    :division :division"D2-3"^^xsd:string .
+
+:course_1074_D2-1 rdf:type :courseDivision ;
+    :courseCode :course"1074"^^xsd:string ;
+    :division :division"D2-1"^^xsd:string .
+
+:course_1075_D3-4 rdf:type :courseDivision ;
+    :courseCode :course"1075"^^xsd:string ;
+    :division :division"D3-4"^^xsd:string .
+
+:course_1076_D7-1 rdf:type :courseDivision ;
+    :courseCode :course"1076"^^xsd:string ;
+    :division :division"D7-1"^^xsd:string .
+
+:course_1077_D6-1 rdf:type :courseDivision ;
+    :courseCode :course"1077"^^xsd:string ;
+    :division :division"D6-1"^^xsd:string .
+
+:course_1078_D4-1 rdf:type :courseDivision ;
+    :courseCode :course"1078"^^xsd:string ;
+    :division :division"D4-1"^^xsd:string .
+
+:course_1079_D2-2 rdf:type :courseDivision ;
+    :courseCode :course"1079"^^xsd:string ;
+    :division :division"D2-2"^^xsd:string .
+
+:course_1080_D5-1 rdf:type :courseDivision ;
+    :courseCode :course"1080"^^xsd:string ;
+    :division :division"D5-1"^^xsd:string .
+
+:course_1081_D6-0 rdf:type :courseDivision ;
+    :courseCode :course"1081"^^xsd:string ;
+    :division :division"D6-0"^^xsd:string .
+
+:course_1082_D4-3 rdf:type :courseDivision ;
+    :courseCode :course"1082"^^xsd:string ;
+    :division :division"D4-3"^^xsd:string .
+
+:course_1083_D3-2 rdf:type :courseDivision ;
+    :courseCode :course"1083"^^xsd:string ;
+    :division :division"D3-2"^^xsd:string .
+
+:course_1084_D7-1 rdf:type :courseDivision ;
+    :courseCode :course"1084"^^xsd:string ;
+    :division :division"D7-1"^^xsd:string .
+
+:course_1085_D4-1 rdf:type :courseDivision ;
+    :courseCode :course"1085"^^xsd:string ;
+    :division :division"D4-1"^^xsd:string .
+
+:course_1086_D6-4 rdf:type :courseDivision ;
+    :courseCode :course"1086"^^xsd:string ;
+    :division :division"D6-4"^^xsd:string .
+
+:course_1087_D4-1 rdf:type :courseDivision ;
+    :courseCode :course"1087"^^xsd:string ;
+    :division :division"D4-1"^^xsd:string .
+
+:course_1088_D1-0 rdf:type :courseDivision ;
+    :courseCode :course"1088"^^xsd:string ;
+    :division :division"D1-0"^^xsd:string .
+
+:course_1089_D1-4 rdf:type :courseDivision ;
+    :courseCode :course"1089"^^xsd:string ;
+    :division :division"D1-4"^^xsd:string .
+
+:course_1090_D6-2 rdf:type :courseDivision ;
+    :courseCode :course"1090"^^xsd:string ;
+    :division :division"D6-2"^^xsd:string .
+
+:course_1091_D3-1 rdf:type :courseDivision ;
+    :courseCode :course"1091"^^xsd:string ;
+    :division :division"D3-1"^^xsd:string .
+
+:course_1092_D7-3 rdf:type :courseDivision ;
+    :courseCode :course"1092"^^xsd:string ;
+    :division :division"D7-3"^^xsd:string .
+
+:course_1093_D7-0 rdf:type :courseDivision ;
+    :courseCode :course"1093"^^xsd:string ;
+    :division :division"D7-0"^^xsd:string .
+
+:course_1094_D5-4 rdf:type :courseDivision ;
+    :courseCode :course"1094"^^xsd:string ;
+    :division :division"D5-4"^^xsd:string .
+
+:course_1095_D2-1 rdf:type :courseDivision ;
+    :courseCode :course"1095"^^xsd:string ;
+    :division :division"D2-1"^^xsd:string .
+
+:course_1096_D4-3 rdf:type :courseDivision ;
+    :courseCode :course"1096"^^xsd:string ;
+    :division :division"D4-3"^^xsd:string .
+
+:course_1097_D4-3 rdf:type :courseDivision ;
+    :courseCode :course"1097"^^xsd:string ;
+    :division :division"D4-3"^^xsd:string .
+
+:course_1098_D1-3 rdf:type :courseDivision ;
+    :courseCode :course"1098"^^xsd:string ;
+    :division :division"D1-3"^^xsd:string .
+
+:course_1099_D4-5 rdf:type :courseDivision ;
+    :courseCode :course"1099"^^xsd:string ;
+    :division :division"D4-5"^^xsd:string .
+
+:course_1100_D3-4 rdf:type :courseDivision ;
+    :courseCode :course"1100"^^xsd:string ;
+    :division :division"D3-4"^^xsd:string .
+
+:course_1101_D5-0 rdf:type :courseDivision ;
+    :courseCode :course"1101"^^xsd:string ;
+    :division :division"D5-0"^^xsd:string .
+
+:course_1102_D5-3 rdf:type :courseDivision ;
+    :courseCode :course"1102"^^xsd:string ;
+    :division :division"D5-3"^^xsd:string .
+
+:course_1103_D5-3 rdf:type :courseDivision ;
+    :courseCode :course"1103"^^xsd:string ;
+    :division :division"D5-3"^^xsd:string .
+
+:course_1104_D3-4 rdf:type :courseDivision ;
+    :courseCode :course"1104"^^xsd:string ;
+    :division :division"D3-4"^^xsd:string .
+
+:course_1105_D4-3 rdf:type :courseDivision ;
+    :courseCode :course"1105"^^xsd:string ;
+    :division :division"D4-3"^^xsd:string .
+
+:course_1106_D7-1 rdf:type :courseDivision ;
+    :courseCode :course"1106"^^xsd:string ;
+    :division :division"D7-1"^^xsd:string .
+
+:course_1107_D4-3 rdf:type :courseDivision ;
+    :courseCode :course"1107"^^xsd:string ;
+    :division :division"D4-3"^^xsd:string .
+
+:course_1108_D2-4 rdf:type :courseDivision ;
+    :courseCode :course"1108"^^xsd:string ;
+    :division :division"D2-4"^^xsd:string .
+
+:course_1109_D1-0 rdf:type :courseDivision ;
+    :courseCode :course"1109"^^xsd:string ;
+    :division :division"D1-0"^^xsd:string .
+
+:course_1110_D4-4 rdf:type :courseDivision ;
+    :courseCode :course"1110"^^xsd:string ;
+    :division :division"D4-4"^^xsd:string .
+
+:course_1111_D6-3 rdf:type :courseDivision ;
+    :courseCode :course"1111"^^xsd:string ;
+    :division :division"D6-3"^^xsd:string .
+
+:course_1112_D8-4 rdf:type :courseDivision ;
+    :courseCode :course"1112"^^xsd:string ;
+    :division :division"D8-4"^^xsd:string .
+
+:course_1113_D1-3 rdf:type :courseDivision ;
+    :courseCode :course"1113"^^xsd:string ;
+    :division :division"D1-3"^^xsd:string .
+
+:course_1114_D6-5 rdf:type :courseDivision ;
+    :courseCode :course"1114"^^xsd:string ;
+    :division :division"D6-5"^^xsd:string .
+
+:course_1115_D3-2 rdf:type :courseDivision ;
+    :courseCode :course"1115"^^xsd:string ;
+    :division :division"D3-2"^^xsd:string .
+
+:course_1116_D6-1 rdf:type :courseDivision ;
+    :courseCode :course"1116"^^xsd:string ;
+    :division :division"D6-1"^^xsd:string .
+
+:course_1117_D8-0 rdf:type :courseDivision ;
+    :courseCode :course"1117"^^xsd:string ;
+    :division :division"D8-0"^^xsd:string .
+
+:course_1118_D5-3 rdf:type :courseDivision ;
+    :courseCode :course"1118"^^xsd:string ;
+    :division :division"D5-3"^^xsd:string .
+
+:course_1119_D3-4 rdf:type :courseDivision ;
+    :courseCode :course"1119"^^xsd:string ;
+    :division :division"D3-4"^^xsd:string .
+
+:course_1120_D3-0 rdf:type :courseDivision ;
+    :courseCode :course"1120"^^xsd:string ;
+    :division :division"D3-0"^^xsd:string .
+
+:course_1121_D4-4 rdf:type :courseDivision ;
+    :courseCode :course"1121"^^xsd:string ;
+    :division :division"D4-4"^^xsd:string .
+
+:course_1122_D3-2 rdf:type :courseDivision ;
+    :courseCode :course"1122"^^xsd:string ;
+    :division :division"D3-2"^^xsd:string .
+
+:course_1123_D2-1 rdf:type :courseDivision ;
+    :courseCode :course"1123"^^xsd:string ;
+    :division :division"D2-1"^^xsd:string .
+
+:course_1124_D8-2 rdf:type :courseDivision ;
+    :courseCode :course"1124"^^xsd:string ;
+    :division :division"D8-2"^^xsd:string .
+
+:course_1125_D5-3 rdf:type :courseDivision ;
+    :courseCode :course"1125"^^xsd:string ;
+    :division :division"D5-3"^^xsd:string .
+
+:course_1126_D4-2 rdf:type :courseDivision ;
+    :courseCode :course"1126"^^xsd:string ;
+    :division :division"D4-2"^^xsd:string .
+
+:course_1127_D5-1 rdf:type :courseDivision ;
+    :courseCode :course"1127"^^xsd:string ;
+    :division :division"D5-1"^^xsd:string .
+
+:course_1128_D4-1 rdf:type :courseDivision ;
+    :courseCode :course"1128"^^xsd:string ;
+    :division :division"D4-1"^^xsd:string .
+
+:course_1129_D5-2 rdf:type :courseDivision ;
+    :courseCode :course"1129"^^xsd:string ;
+    :division :division"D5-2"^^xsd:string .
+
+:course_1130_D8-5 rdf:type :courseDivision ;
+    :courseCode :course"1130"^^xsd:string ;
+    :division :division"D8-5"^^xsd:string .
+
+:course_1131_D8-3 rdf:type :courseDivision ;
+    :courseCode :course"1131"^^xsd:string ;
+    :division :division"D8-3"^^xsd:string .
+
+:course_1132_D1-1 rdf:type :courseDivision ;
+    :courseCode :course"1132"^^xsd:string ;
+    :division :division"D1-1"^^xsd:string .
+
+:course_1133_D8-1 rdf:type :courseDivision ;
+    :courseCode :course"1133"^^xsd:string ;
+    :division :division"D8-1"^^xsd:string .
+
+:course_1134_D6-1 rdf:type :courseDivision ;
+    :courseCode :course"1134"^^xsd:string ;
+    :division :division"D6-1"^^xsd:string .
+
+:course_1135_D6-2 rdf:type :courseDivision ;
+    :courseCode :course"1135"^^xsd:string ;
+    :division :division"D6-2"^^xsd:string .
+
+:course_1136_D2-5 rdf:type :courseDivision ;
+    :courseCode :course"1136"^^xsd:string ;
+    :division :division"D2-5"^^xsd:string .
+
+:course_1137_D1-2 rdf:type :courseDivision ;
+    :courseCode :course"1137"^^xsd:string ;
+    :division :division"D1-2"^^xsd:string .
+
+:course_1138_D6-4 rdf:type :courseDivision ;
+    :courseCode :course"1138"^^xsd:string ;
+    :division :division"D6-4"^^xsd:string .
+
+:course_1139_D7-4 rdf:type :courseDivision ;
+    :courseCode :course"1139"^^xsd:string ;
+    :division :division"D7-4"^^xsd:string .
+
+:course_1140_D6-0 rdf:type :courseDivision ;
+    :courseCode :course"1140"^^xsd:string ;
+    :division :division"D6-0"^^xsd:string .
+
+:course_1141_D6-1 rdf:type :courseDivision ;
+    :courseCode :course"1141"^^xsd:string ;
+    :division :division"D6-1"^^xsd:string .
+
+:course_1142_D7-5 rdf:type :courseDivision ;
+    :courseCode :course"1142"^^xsd:string ;
+    :division :division"D7-5"^^xsd:string .
+
+:course_1143_D7-5 rdf:type :courseDivision ;
+    :courseCode :course"1143"^^xsd:string ;
+    :division :division"D7-5"^^xsd:string .
+
+:course_1144_D8-1 rdf:type :courseDivision ;
+    :courseCode :course"1144"^^xsd:string ;
+    :division :division"D8-1"^^xsd:string .
+
+:course_1145_D7-4 rdf:type :courseDivision ;
+    :courseCode :course"1145"^^xsd:string ;
+    :division :division"D7-4"^^xsd:string .
+
+:course_1146_D3-1 rdf:type :courseDivision ;
+    :courseCode :course"1146"^^xsd:string ;
+    :division :division"D3-1"^^xsd:string .
+
+:course_1147_D7-1 rdf:type :courseDivision ;
+    :courseCode :course"1147"^^xsd:string ;
+    :division :division"D7-1"^^xsd:string .
+
+:course_1148_D2-4 rdf:type :courseDivision ;
+    :courseCode :course"1148"^^xsd:string ;
+    :division :division"D2-4"^^xsd:string .
+
+:course_1149_D1-3 rdf:type :courseDivision ;
+    :courseCode :course"1149"^^xsd:string ;
+    :division :division"D1-3"^^xsd:string .
+
+:course_1150_D5-5 rdf:type :courseDivision ;
+    :courseCode :course"1150"^^xsd:string ;
+    :division :division"D5-5"^^xsd:string .
+
+:course_1151_D5-0 rdf:type :courseDivision ;
+    :courseCode :course"1151"^^xsd:string ;
+    :division :division"D5-0"^^xsd:string .
+
+:course_1152_D4-0 rdf:type :courseDivision ;
+    :courseCode :course"1152"^^xsd:string ;
+    :division :division"D4-0"^^xsd:string .
+
+:course_1153_D3-5 rdf:type :courseDivision ;
+    :courseCode :course"1153"^^xsd:string ;
+    :division :division"D3-5"^^xsd:string .
+
+:course_1154_D3-2 rdf:type :courseDivision ;
+    :courseCode :course"1154"^^xsd:string ;
+    :division :division"D3-2"^^xsd:string .
+
+:course_1155_D2-2 rdf:type :courseDivision ;
+    :courseCode :course"1155"^^xsd:string ;
+    :division :division"D2-2"^^xsd:string .
+
+:course_1156_D7-3 rdf:type :courseDivision ;
+    :courseCode :course"1156"^^xsd:string ;
+    :division :division"D7-3"^^xsd:string .
+
+:course_1157_D3-2 rdf:type :courseDivision ;
+    :courseCode :course"1157"^^xsd:string ;
+    :division :division"D3-2"^^xsd:string .
+
+:course_1158_D2-3 rdf:type :courseDivision ;
+    :courseCode :course"1158"^^xsd:string ;
+    :division :division"D2-3"^^xsd:string .
+
+:course_1159_D4-0 rdf:type :courseDivision ;
+    :courseCode :course"1159"^^xsd:string ;
+    :division :division"D4-0"^^xsd:string .
+
+:course_1160_D4-1 rdf:type :courseDivision ;
+    :courseCode :course"1160"^^xsd:string ;
+    :division :division"D4-1"^^xsd:string .
+
+:course_1161_D8-1 rdf:type :courseDivision ;
+    :courseCode :course"1161"^^xsd:string ;
+    :division :division"D8-1"^^xsd:string .
+
+:course_1162_D5-0 rdf:type :courseDivision ;
+    :courseCode :course"1162"^^xsd:string ;
+    :division :division"D5-0"^^xsd:string .
+
+:course_1163_D6-2 rdf:type :courseDivision ;
+    :courseCode :course"1163"^^xsd:string ;
+    :division :division"D6-2"^^xsd:string .
+
+:course_1164_D7-3 rdf:type :courseDivision ;
+    :courseCode :course"1164"^^xsd:string ;
+    :division :division"D7-3"^^xsd:string .
+
+:course_1165_D2-0 rdf:type :courseDivision ;
+    :courseCode :course"1165"^^xsd:string ;
+    :division :division"D2-0"^^xsd:string .
+
+:course_1166_D5-0 rdf:type :courseDivision ;
+    :courseCode :course"1166"^^xsd:string ;
+    :division :division"D5-0"^^xsd:string .
+
+:course_1167_D2-5 rdf:type :courseDivision ;
+    :courseCode :course"1167"^^xsd:string ;
+    :division :division"D2-5"^^xsd:string .
+
+:course_1168_D8-1 rdf:type :courseDivision ;
+    :courseCode :course"1168"^^xsd:string ;
+    :division :division"D8-1"^^xsd:string .
+
+:course_1169_D8-3 rdf:type :courseDivision ;
+    :courseCode :course"1169"^^xsd:string ;
+    :division :division"D8-3"^^xsd:string .
+
+:course_1170_D8-1 rdf:type :courseDivision ;
+    :courseCode :course"1170"^^xsd:string ;
+    :division :division"D8-1"^^xsd:string .
+
+:course_1171_D1-5 rdf:type :courseDivision ;
+    :courseCode :course"1171"^^xsd:string ;
+    :division :division"D1-5"^^xsd:string .
+
+:course_1172_D3-2 rdf:type :courseDivision ;
+    :courseCode :course"1172"^^xsd:string ;
+    :division :division"D3-2"^^xsd:string .
+
+:course_1173_D8-3 rdf:type :courseDivision ;
+    :courseCode :course"1173"^^xsd:string ;
+    :division :division"D8-3"^^xsd:string .
+
+:course_1174_D4-3 rdf:type :courseDivision ;
+    :courseCode :course"1174"^^xsd:string ;
+    :division :division"D4-3"^^xsd:string .
+
+:course_1175_D5-4 rdf:type :courseDivision ;
+    :courseCode :course"1175"^^xsd:string ;
+    :division :division"D5-4"^^xsd:string .
+
+:course_1176_D6-3 rdf:type :courseDivision ;
+    :courseCode :course"1176"^^xsd:string ;
+    :division :division"D6-3"^^xsd:string .
+
+:course_1177_D3-4 rdf:type :courseDivision ;
+    :courseCode :course"1177"^^xsd:string ;
+    :division :division"D3-4"^^xsd:string .
+
+:course_1178_D2-2 rdf:type :courseDivision ;
+    :courseCode :course"1178"^^xsd:string ;
+    :division :division"D2-2"^^xsd:string .
+
+:course_1179_D2-5 rdf:type :courseDivision ;
+    :courseCode :course"1179"^^xsd:string ;
+    :division :division"D2-5"^^xsd:string .
+
+:course_1180_D2-0 rdf:type :courseDivision ;
+    :courseCode :course"1180"^^xsd:string ;
+    :division :division"D2-0"^^xsd:string .
+
+:course_1181_D7-0 rdf:type :courseDivision ;
+    :courseCode :course"1181"^^xsd:string ;
+    :division :division"D7-0"^^xsd:string .
+
+:course_1182_D1-3 rdf:type :courseDivision ;
+    :courseCode :course"1182"^^xsd:string ;
+    :division :division"D1-3"^^xsd:string .
+
+:course_1183_D8-4 rdf:type :courseDivision ;
+    :courseCode :course"1183"^^xsd:string ;
+    :division :division"D8-4"^^xsd:string .
+
+:course_1184_D5-5 rdf:type :courseDivision ;
+    :courseCode :course"1184"^^xsd:string ;
+    :division :division"D5-5"^^xsd:string .
+
+:course_1185_D8-3 rdf:type :courseDivision ;
+    :courseCode :course"1185"^^xsd:string ;
+    :division :division"D8-3"^^xsd:string .
+
+:course_1186_D4-3 rdf:type :courseDivision ;
+    :courseCode :course"1186"^^xsd:string ;
+    :division :division"D4-3"^^xsd:string .
+
+:course_1187_D2-1 rdf:type :courseDivision ;
+    :courseCode :course"1187"^^xsd:string ;
+    :division :division"D2-1"^^xsd:string .
+
+:course_1188_D7-5 rdf:type :courseDivision ;
+    :courseCode :course"1188"^^xsd:string ;
+    :division :division"D7-5"^^xsd:string .
+
+:course_1189_D6-4 rdf:type :courseDivision ;
+    :courseCode :course"1189"^^xsd:string ;
+    :division :division"D6-4"^^xsd:string .
+
+:course_1190_D8-0 rdf:type :courseDivision ;
+    :courseCode :course"1190"^^xsd:string ;
+    :division :division"D8-0"^^xsd:string .
+
+:course_1191_D5-3 rdf:type :courseDivision ;
+    :courseCode :course"1191"^^xsd:string ;
+    :division :division"D5-3"^^xsd:string .
+
+:course_1192_D3-3 rdf:type :courseDivision ;
+    :courseCode :course"1192"^^xsd:string ;
+    :division :division"D3-3"^^xsd:string .
+
+:course_1193_D4-0 rdf:type :courseDivision ;
+    :courseCode :course"1193"^^xsd:string ;
+    :division :division"D4-0"^^xsd:string .
+
+:course_1194_D5-2 rdf:type :courseDivision ;
+    :courseCode :course"1194"^^xsd:string ;
+    :division :division"D5-2"^^xsd:string .
+
+:course_1195_D3-4 rdf:type :courseDivision ;
+    :courseCode :course"1195"^^xsd:string ;
+    :division :division"D3-4"^^xsd:string .
+
+:course_1196_D5-2 rdf:type :courseDivision ;
+    :courseCode :course"1196"^^xsd:string ;
+    :division :division"D5-2"^^xsd:string .
+
+:course_1197_D6-1 rdf:type :courseDivision ;
+    :courseCode :course"1197"^^xsd:string ;
+    :division :division"D6-1"^^xsd:string .
+
+:course_1198_D3-0 rdf:type :courseDivision ;
+    :courseCode :course"1198"^^xsd:string ;
+    :division :division"D3-0"^^xsd:string .
+
+:course_1199_D7-1 rdf:type :courseDivision ;
+    :courseCode :course"1199"^^xsd:string ;
+    :division :division"D7-1"^^xsd:string .
+
+:course_1200_D2-1 rdf:type :courseDivision ;
+    :courseCode :course"1200"^^xsd:string ;
+    :division :division"D2-1"^^xsd:string .
+
+:course_1201_D6-1 rdf:type :courseDivision ;
+    :courseCode :course"1201"^^xsd:string ;
+    :division :division"D6-1"^^xsd:string .
+
+:course_1202_D7-2 rdf:type :courseDivision ;
+    :courseCode :course"1202"^^xsd:string ;
+    :division :division"D7-2"^^xsd:string .
+
+:course_1203_D4-3 rdf:type :courseDivision ;
+    :courseCode :course"1203"^^xsd:string ;
+    :division :division"D4-3"^^xsd:string .
+
+:course_1204_D1-4 rdf:type :courseDivision ;
+    :courseCode :course"1204"^^xsd:string ;
+    :division :division"D1-4"^^xsd:string .
+
+:course_1205_D5-4 rdf:type :courseDivision ;
+    :courseCode :course"1205"^^xsd:string ;
+    :division :division"D5-4"^^xsd:string .
+
+:course_1206_D6-1 rdf:type :courseDivision ;
+    :courseCode :course"1206"^^xsd:string ;
+    :division :division"D6-1"^^xsd:string .
+
+:course_1207_D3-1 rdf:type :courseDivision ;
+    :courseCode :course"1207"^^xsd:string ;
+    :division :division"D3-1"^^xsd:string .
+
+:course_1208_D6-0 rdf:type :courseDivision ;
+    :courseCode :course"1208"^^xsd:string ;
+    :division :division"D6-0"^^xsd:string .
+
+:course_1209_D6-3 rdf:type :courseDivision ;
+    :courseCode :course"1209"^^xsd:string ;
+    :division :division"D6-3"^^xsd:string .
+
+:course_1210_D3-2 rdf:type :courseDivision ;
+    :courseCode :course"1210"^^xsd:string ;
+    :division :division"D3-2"^^xsd:string .
+
+:course_1211_D7-4 rdf:type :courseDivision ;
+    :courseCode :course"1211"^^xsd:string ;
+    :division :division"D7-4"^^xsd:string .
+
+:course_1212_D4-0 rdf:type :courseDivision ;
+    :courseCode :course"1212"^^xsd:string ;
+    :division :division"D4-0"^^xsd:string .
+
+:course_1213_D5-2 rdf:type :courseDivision ;
+    :courseCode :course"1213"^^xsd:string ;
+    :division :division"D5-2"^^xsd:string .
+
+:course_1214_D5-3 rdf:type :courseDivision ;
+    :courseCode :course"1214"^^xsd:string ;
+    :division :division"D5-3"^^xsd:string .
+
+:course_1215_D2-2 rdf:type :courseDivision ;
+    :courseCode :course"1215"^^xsd:string ;
+    :division :division"D2-2"^^xsd:string .
+
+:course_1216_D2-5 rdf:type :courseDivision ;
+    :courseCode :course"1216"^^xsd:string ;
+    :division :division"D2-5"^^xsd:string .
+
+:course_1217_D3-0 rdf:type :courseDivision ;
+    :courseCode :course"1217"^^xsd:string ;
+    :division :division"D3-0"^^xsd:string .
+
+:course_1218_D8-2 rdf:type :courseDivision ;
+    :courseCode :course"1218"^^xsd:string ;
+    :division :division"D8-2"^^xsd:string .
+
+:course_1219_D4-4 rdf:type :courseDivision ;
+    :courseCode :course"1219"^^xsd:string ;
+    :division :division"D4-4"^^xsd:string .
+
+:course_1220_D4-5 rdf:type :courseDivision ;
+    :courseCode :course"1220"^^xsd:string ;
+    :division :division"D4-5"^^xsd:string .
+
+:course_1221_D7-3 rdf:type :courseDivision ;
+    :courseCode :course"1221"^^xsd:string ;
+    :division :division"D7-3"^^xsd:string .
+
+:course_1222_D7-2 rdf:type :courseDivision ;
+    :courseCode :course"1222"^^xsd:string ;
+    :division :division"D7-2"^^xsd:string .
+
+:course_1223_D1-4 rdf:type :courseDivision ;
+    :courseCode :course"1223"^^xsd:string ;
+    :division :division"D1-4"^^xsd:string .
+
+:course_1224_D5-1 rdf:type :courseDivision ;
+    :courseCode :course"1224"^^xsd:string ;
+    :division :division"D5-1"^^xsd:string .
+
+:course_1225_D6-2 rdf:type :courseDivision ;
+    :courseCode :course"1225"^^xsd:string ;
+    :division :division"D6-2"^^xsd:string .
+
+:course_1226_D8-3 rdf:type :courseDivision ;
+    :courseCode :course"1226"^^xsd:string ;
+    :division :division"D8-3"^^xsd:string .
+
+:course_1227_D1-3 rdf:type :courseDivision ;
+    :courseCode :course"1227"^^xsd:string ;
+    :division :division"D1-3"^^xsd:string .
+
+:course_1228_D6-2 rdf:type :courseDivision ;
+    :courseCode :course"1228"^^xsd:string ;
+    :division :division"D6-2"^^xsd:string .
+
+:course_1229_D7-0 rdf:type :courseDivision ;
+    :courseCode :course"1229"^^xsd:string ;
+    :division :division"D7-0"^^xsd:string .
+
+:course_1230_D5-2 rdf:type :courseDivision ;
+    :courseCode :course"1230"^^xsd:string ;
+    :division :division"D5-2"^^xsd:string .
+
+:course_1231_D4-5 rdf:type :courseDivision ;
+    :courseCode :course"1231"^^xsd:string ;
+    :division :division"D4-5"^^xsd:string .
+
+:course_1232_D6-1 rdf:type :courseDivision ;
+    :courseCode :course"1232"^^xsd:string ;
+    :division :division"D6-1"^^xsd:string .
+
+:course_1233_D7-3 rdf:type :courseDivision ;
+    :courseCode :course"1233"^^xsd:string ;
+    :division :division"D7-3"^^xsd:string .
+
+:course_1234_D4-1 rdf:type :courseDivision ;
+    :courseCode :course"1234"^^xsd:string ;
+    :division :division"D4-1"^^xsd:string .
+
+:course_1235_D6-0 rdf:type :courseDivision ;
+    :courseCode :course"1235"^^xsd:string ;
+    :division :division"D6-0"^^xsd:string .
+
+:course_1236_D2-1 rdf:type :courseDivision ;
+    :courseCode :course"1236"^^xsd:string ;
+    :division :division"D2-1"^^xsd:string .
+
+:course_1237_D1-2 rdf:type :courseDivision ;
+    :courseCode :course"1237"^^xsd:string ;
+    :division :division"D1-2"^^xsd:string .
+
+:course_1238_D2-4 rdf:type :courseDivision ;
+    :courseCode :course"1238"^^xsd:string ;
+    :division :division"D2-4"^^xsd:string .
+
+:course_1239_D8-2 rdf:type :courseDivision ;
+    :courseCode :course"1239"^^xsd:string ;
+    :division :division"D8-2"^^xsd:string .
+
+:course_1240_D5-5 rdf:type :courseDivision ;
+    :courseCode :course"1240"^^xsd:string ;
+    :division :division"D5-5"^^xsd:string .
+
+:course_1241_D5-2 rdf:type :courseDivision ;
+    :courseCode :course"1241"^^xsd:string ;
+    :division :division"D5-2"^^xsd:string .
+
+:course_1242_D2-3 rdf:type :courseDivision ;
+    :courseCode :course"1242"^^xsd:string ;
+    :division :division"D2-3"^^xsd:string .
+
+:course_1243_D3-4 rdf:type :courseDivision ;
+    :courseCode :course"1243"^^xsd:string ;
+    :division :division"D3-4"^^xsd:string .
+
+:course_1244_D7-0 rdf:type :courseDivision ;
+    :courseCode :course"1244"^^xsd:string ;
+    :division :division"D7-0"^^xsd:string .
+
+:course_1245_D7-1 rdf:type :courseDivision ;
+    :courseCode :course"1245"^^xsd:string ;
+    :division :division"D7-1"^^xsd:string .
+
+:course_1246_D6-4 rdf:type :courseDivision ;
+    :courseCode :course"1246"^^xsd:string ;
+    :division :division"D6-4"^^xsd:string .
+
+:course_1247_D7-5 rdf:type :courseDivision ;
+    :courseCode :course"1247"^^xsd:string ;
+    :division :division"D7-5"^^xsd:string .
+
+:course_1248_D3-0 rdf:type :courseDivision ;
+    :courseCode :course"1248"^^xsd:string ;
+    :division :division"D3-0"^^xsd:string .
+
+:course_1249_D5-0 rdf:type :courseDivision ;
+    :courseCode :course"1249"^^xsd:string ;
+    :division :division"D5-0"^^xsd:string .
+
+:course_1250_D8-0 rdf:type :courseDivision ;
+    :courseCode :course"1250"^^xsd:string ;
+    :division :division"D8-0"^^xsd:string .
+
+:course_1251_D1-3 rdf:type :courseDivision ;
+    :courseCode :course"1251"^^xsd:string ;
+    :division :division"D1-3"^^xsd:string .
+
+:course_1252_D4-2 rdf:type :courseDivision ;
+    :courseCode :course"1252"^^xsd:string ;
+    :division :division"D4-2"^^xsd:string .
+
+:course_1253_D8-2 rdf:type :courseDivision ;
+    :courseCode :course"1253"^^xsd:string ;
+    :division :division"D8-2"^^xsd:string .
+
+:course_1254_D5-5 rdf:type :courseDivision ;
+    :courseCode :course"1254"^^xsd:string ;
+    :division :division"D5-5"^^xsd:string .
+
+:course_1255_D8-1 rdf:type :courseDivision ;
+    :courseCode :course"1255"^^xsd:string ;
+    :division :division"D8-1"^^xsd:string .
+
+:course_1256_D6-2 rdf:type :courseDivision ;
+    :courseCode :course"1256"^^xsd:string ;
+    :division :division"D6-2"^^xsd:string .
+
+:course_1257_D1-3 rdf:type :courseDivision ;
+    :courseCode :course"1257"^^xsd:string ;
+    :division :division"D1-3"^^xsd:string .
+
+:course_1258_D4-5 rdf:type :courseDivision ;
+    :courseCode :course"1258"^^xsd:string ;
+    :division :division"D4-5"^^xsd:string .
+
+:course_1259_D3-0 rdf:type :courseDivision ;
+    :courseCode :course"1259"^^xsd:string ;
+    :division :division"D3-0"^^xsd:string .
+
+:course_1260_D7-5 rdf:type :courseDivision ;
+    :courseCode :course"1260"^^xsd:string ;
+    :division :division"D7-5"^^xsd:string .
+
+:course_1261_D8-3 rdf:type :courseDivision ;
+    :courseCode :course"1261"^^xsd:string ;
+    :division :division"D8-3"^^xsd:string .
+
+:course_1262_D4-1 rdf:type :courseDivision ;
+    :courseCode :course"1262"^^xsd:string ;
+    :division :division"D4-1"^^xsd:string .
+
+:course_1263_D7-1 rdf:type :courseDivision ;
+    :courseCode :course"1263"^^xsd:string ;
+    :division :division"D7-1"^^xsd:string .
+
+:course_1264_D2-3 rdf:type :courseDivision ;
+    :courseCode :course"1264"^^xsd:string ;
+    :division :division"D2-3"^^xsd:string .
+
+:course_1265_D7-3 rdf:type :courseDivision ;
+    :courseCode :course"1265"^^xsd:string ;
+    :division :division"D7-3"^^xsd:string .
+
+:course_1266_D4-4 rdf:type :courseDivision ;
+    :courseCode :course"1266"^^xsd:string ;
+    :division :division"D4-4"^^xsd:string .
+
+:course_1267_D4-1 rdf:type :courseDivision ;
+    :courseCode :course"1267"^^xsd:string ;
+    :division :division"D4-1"^^xsd:string .
+
+:course_1268_D3-5 rdf:type :courseDivision ;
+    :courseCode :course"1268"^^xsd:string ;
+    :division :division"D3-5"^^xsd:string .
+
+:course_1269_D7-2 rdf:type :courseDivision ;
+    :courseCode :course"1269"^^xsd:string ;
+    :division :division"D7-2"^^xsd:string .
+
+:course_1270_D2-2 rdf:type :courseDivision ;
+    :courseCode :course"1270"^^xsd:string ;
+    :division :division"D2-2"^^xsd:string .
+
+:course_1271_D2-0 rdf:type :courseDivision ;
+    :courseCode :course"1271"^^xsd:string ;
+    :division :division"D2-0"^^xsd:string .
+
+:course_1272_D8-0 rdf:type :courseDivision ;
+    :courseCode :course"1272"^^xsd:string ;
+    :division :division"D8-0"^^xsd:string .
+
+:course_1273_D7-5 rdf:type :courseDivision ;
+    :courseCode :course"1273"^^xsd:string ;
+    :division :division"D7-5"^^xsd:string .
+
+:course_1274_D1-2 rdf:type :courseDivision ;
+    :courseCode :course"1274"^^xsd:string ;
+    :division :division"D1-2"^^xsd:string .
+
+:course_1275_D2-4 rdf:type :courseDivision ;
+    :courseCode :course"1275"^^xsd:string ;
+    :division :division"D2-4"^^xsd:string .
+
+:course_1276_D1-3 rdf:type :courseDivision ;
+    :courseCode :course"1276"^^xsd:string ;
+    :division :division"D1-3"^^xsd:string .
+
+:course_1277_D2-2 rdf:type :courseDivision ;
+    :courseCode :course"1277"^^xsd:string ;
+    :division :division"D2-2"^^xsd:string .
+
+:course_1278_D6-0 rdf:type :courseDivision ;
+    :courseCode :course"1278"^^xsd:string ;
+    :division :division"D6-0"^^xsd:string .
+
+:course_1279_D1-4 rdf:type :courseDivision ;
+    :courseCode :course"1279"^^xsd:string ;
+    :division :division"D1-4"^^xsd:string .
+
+:course_1280_D6-5 rdf:type :courseDivision ;
+    :courseCode :course"1280"^^xsd:string ;
+    :division :division"D6-5"^^xsd:string .
+
+:course_1281_D1-0 rdf:type :courseDivision ;
+    :courseCode :course"1281"^^xsd:string ;
+    :division :division"D1-0"^^xsd:string .
+
+:course_1282_D6-3 rdf:type :courseDivision ;
+    :courseCode :course"1282"^^xsd:string ;
+    :division :division"D6-3"^^xsd:string .
+
+:course_1283_D7-2 rdf:type :courseDivision ;
+    :courseCode :course"1283"^^xsd:string ;
+    :division :division"D7-2"^^xsd:string .
+
+:course_1284_D6-4 rdf:type :courseDivision ;
+    :courseCode :course"1284"^^xsd:string ;
+    :division :division"D6-4"^^xsd:string .
+
+:course_1285_D8-2 rdf:type :courseDivision ;
+    :courseCode :course"1285"^^xsd:string ;
+    :division :division"D8-2"^^xsd:string .
+
+:course_1286_D6-4 rdf:type :courseDivision ;
+    :courseCode :course"1286"^^xsd:string ;
+    :division :division"D6-4"^^xsd:string .
+
+:course_1287_D3-0 rdf:type :courseDivision ;
+    :courseCode :course"1287"^^xsd:string ;
+    :division :division"D3-0"^^xsd:string .
+
+:course_1288_D6-5 rdf:type :courseDivision ;
+    :courseCode :course"1288"^^xsd:string ;
+    :division :division"D6-5"^^xsd:string .
+
+:course_1289_D1-0 rdf:type :courseDivision ;
+    :courseCode :course"1289"^^xsd:string ;
+    :division :division"D1-0"^^xsd:string .
+
+:course_1290_D6-0 rdf:type :courseDivision ;
+    :courseCode :course"1290"^^xsd:string ;
+    :division :division"D6-0"^^xsd:string .
+
+:course_1291_D1-3 rdf:type :courseDivision ;
+    :courseCode :course"1291"^^xsd:string ;
+    :division :division"D1-3"^^xsd:string .
+
+:course_1292_D1-3 rdf:type :courseDivision ;
+    :courseCode :course"1292"^^xsd:string ;
+    :division :division"D1-3"^^xsd:string .
+
+:course_1293_D3-0 rdf:type :courseDivision ;
+    :courseCode :course"1293"^^xsd:string ;
+    :division :division"D3-0"^^xsd:string .
+
+:course_1294_D7-4 rdf:type :courseDivision ;
+    :courseCode :course"1294"^^xsd:string ;
+    :division :division"D7-4"^^xsd:string .
+
+:course_1295_D3-0 rdf:type :courseDivision ;
+    :courseCode :course"1295"^^xsd:string ;
+    :division :division"D3-0"^^xsd:string .
+
+:course_1296_D2-0 rdf:type :courseDivision ;
+    :courseCode :course"1296"^^xsd:string ;
+    :division :division"D2-0"^^xsd:string .
+
+:course_1297_D2-2 rdf:type :courseDivision ;
+    :courseCode :course"1297"^^xsd:string ;
+    :division :division"D2-2"^^xsd:string .
+
+:course_1298_D7-4 rdf:type :courseDivision ;
+    :courseCode :course"1298"^^xsd:string ;
+    :division :division"D7-4"^^xsd:string .
+
+:course_1299_D1-3 rdf:type :courseDivision ;
+    :courseCode :course"1299"^^xsd:string ;
+    :division :division"D1-3"^^xsd:string .
+
+:course_1300_D8-5 rdf:type :courseDivision ;
+    :courseCode :course"1300"^^xsd:string ;
+    :division :division"D8-5"^^xsd:string .
+

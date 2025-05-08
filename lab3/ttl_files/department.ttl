@@ -1,0 +1,28 @@
+@prefix : <http://example.org/university#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:departmentD1 rdf:type :Department ;
+    :departmentName "D1"^^xsd:string .
+
+:departmentD2 rdf:type :Department ;
+    :departmentName "D2"^^xsd:string .
+
+:departmentD3 rdf:type :Department ;
+    :departmentName "D3"^^xsd:string .
+
+:departmentD4 rdf:type :Department ;
+    :departmentName "D4"^^xsd:string .
+
+:departmentD5 rdf:type :Department ;
+    :departmentName "D5"^^xsd:string .
+
+:departmentD6 rdf:type :Department ;
+    :departmentName "D6"^^xsd:string .
+
+:departmentD7 rdf:type :Department ;
+    :departmentName "D7"^^xsd:string .
+
+:departmentD8 rdf:type :Department ;
+    :departmentName "D8"^^xsd:string .
+
