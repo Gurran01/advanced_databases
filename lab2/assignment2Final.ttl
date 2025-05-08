@@ -1,0 +1,383 @@
+@prefix : <http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/> .
+
+<http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3#DivisionInDepartment
+:DivisionInDepartment rdf:type owl:ObjectProperty ;
+                      rdfs:subPropertyOf owl:topObjectProperty ;
+                      rdfs:domain :Division ;
+                      rdfs:range [ rdf:type owl:Restriction ;
+                                   owl:onProperty :DivisionInDepartment ;
+                                   owl:minQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                   owl:onClass :Department
+                                 ] .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/courseHasDivision
+:courseHasDivision rdf:type owl:ObjectProperty ;
+                   rdfs:domain :CourseDivision ;
+                   rdfs:range :Division .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/courseId
+:courseId rdf:type owl:ObjectProperty ;
+          rdfs:domain :CourseInstances ;
+          rdfs:range :Course .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/courseInstanceTeacher
+:courseInstanceTeacher rdf:type owl:ObjectProperty ;
+                       rdfs:domain :CourseInstanceStaff ;
+                       rdfs:range :Teacher .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/courseInstancesStaff
+:courseInstancesStaff rdf:type owl:ObjectProperty ;
+                      rdfs:domain :CourseInstanceStaff ;
+                      rdfs:range :CourseInstances .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/departmentHasCourse
+:departmentHasCourse rdf:type owl:ObjectProperty ;
+                     rdfs:domain :CourseDivision ;
+                     rdfs:range :Course .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/deptHasProgramme
+:deptHasProgramme rdf:type owl:ObjectProperty ;
+                  rdfs:domain :ProgramDivision ;
+                  rdfs:range :Programme .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/director
+:director rdf:type owl:ObjectProperty ;
+          rdfs:domain :Programme ;
+          rdfs:range :SeniorTeacher .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/enrolledIn
+:enrolledIn rdf:type owl:ObjectProperty ;
+            rdfs:domain :Student ;
+            rdfs:range :Programme .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/hasProgramme
+:hasProgramme rdf:type owl:ObjectProperty ;
+              rdfs:domain :Enrollment ;
+              rdfs:range :Programme .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/hasStudent
+:hasStudent rdf:type owl:ObjectProperty ;
+            rdfs:domain :Enrollment ;
+            rdfs:range :Student .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/inCourse
+:inCourse rdf:type owl:ObjectProperty ;
+          rdfs:domain :ProgrammeCourses ;
+          rdfs:range :Course .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/progHasDivision
+:progHasDivision rdf:type owl:ObjectProperty ;
+                 rdfs:domain :ProgramDivision ;
+                 rdfs:range :Division .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/programPlan
+:programPlan rdf:type owl:ObjectProperty ;
+             rdfs:domain :ProgrammeCourses ;
+             rdfs:range :Programme .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/registrationToCourseInstance
+:registrationToCourseInstance rdf:type owl:ObjectProperty ;
+                              rdfs:domain :Registration ;
+                              rdfs:range :CourseInstances .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/studentRegistration
+:studentRegistration rdf:type owl:ObjectProperty ;
+                     rdfs:domain :Registration ;
+                     rdfs:range :Student .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/teacherDivisionToDiv
+:teacherDivisionToDiv rdf:type owl:ObjectProperty ;
+                      rdfs:domain :TeacherDivision ;
+                      rdfs:range :Division .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/teacherDivisionToTeacher
+:teacherDivisionToTeacher rdf:type owl:ObjectProperty ;
+                          rdfs:domain :TeacherDivision ;
+                          rdfs:range :Teacher .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/academicYear
+:academicYear rdf:type owl:DatatypeProperty ;
+              rdfs:domain :CourseInstances ,
+                          :Enrollment ,
+                          :ProgrammeCourses ;
+              rdfs:range xsd:dateTime .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/assignedHours
+:assignedHours rdf:type owl:DatatypeProperty ;
+               rdfs:domain :CourseInstanceStaff ;
+               rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/code
+:code rdf:type owl:DatatypeProperty ;
+      rdfs:domain :Course ,
+                  :Programme ;
+      rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/courseType
+:courseType rdf:type owl:DatatypeProperty ;
+            rdfs:domain :Course ;
+            rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/credit
+:credit rdf:type owl:DatatypeProperty ;
+        rdfs:domain :Course ;
+        rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/dept
+:dept rdf:type owl:DatatypeProperty ;
+      rdfs:domain :Programme ,
+                  :Teacher ;
+      rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/grade
+:grade rdf:type owl:DatatypeProperty ;
+       rdfs:domain :Registration ;
+       rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/graduatedAt
+:graduatedAt rdf:type owl:DatatypeProperty ;
+             rdfs:domain :Student ;
+             rdfs:range xsd:dateTime .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/id
+:id rdf:type owl:DatatypeProperty ;
+    rdfs:domain :Student ,
+                :Teacher ;
+    rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/level
+:level rdf:type owl:DatatypeProperty ;
+       rdfs:domain :Course ;
+       rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/name
+:name rdf:type owl:DatatypeProperty ;
+      rdfs:domain :Department ,
+                  :Course ,
+                  :Division ,
+                  :Programme ,
+                  :Student ,
+                  :Teacher ;
+      rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/planningNumStudents
+:planningNumStudents rdf:type owl:DatatypeProperty ;
+                     rdfs:domain :CourseInstances ;
+                     rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/reportedHours
+:reportedHours rdf:type owl:DatatypeProperty ;
+               rdfs:domain :CourseInstanceStaff ;
+               rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/role
+:role rdf:type owl:DatatypeProperty ;
+      rdfs:domain :CourseInstanceStaff ;
+      rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/status
+:status rdf:type owl:DatatypeProperty ;
+        rdfs:domain :Registration ;
+        rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/studyPeriod
+:studyPeriod rdf:type owl:DatatypeProperty ;
+             rdfs:domain :CourseInstances ;
+             rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/studyYear
+:studyYear rdf:type owl:DatatypeProperty ;
+           rdfs:domain :ProgrammeCourses ;
+           rdfs:range xsd:dateTime .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3#Department
+:Department rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/Assistant
+:Assistant rdf:type owl:Class ;
+           rdfs:subClassOf :Teacher ;
+           owl:disjointWith :Examiner ,
+                            :SeniorTeacher .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/Course
+:Course rdf:type owl:Class ;
+        owl:hasKey ( :code
+                   ) .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/CourseDivision
+:CourseDivision rdf:type owl:Class ;
+                owl:hasKey ( :courseHasDivision
+                           ) ,
+                           ( :departmentHasCourse
+                           ) .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/CourseInstanceStaff
+:CourseInstanceStaff rdf:type owl:Class ;
+                     owl:hasKey ( :courseInstanceTeacher
+                                ) ,
+                                ( :courseInstancesStaff
+                                ) .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/CourseInstances
+:CourseInstances rdf:type owl:Class ;
+                 owl:equivalentClass [ rdf:type owl:Restriction ;
+                                       owl:onProperty :courseId ;
+                                       owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                       owl:onClass :Course
+                                     ] ;
+                 owl:hasKey ( :courseId
+                            ) ,
+                            ( :academicYear
+                            ) ,
+                            ( :studyPeriod
+                            ) .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/Division
+:Division rdf:type owl:Class ;
+          owl:hasKey ( :name
+                     ) .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/Enrollment
+:Enrollment rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/Examiner
+:Examiner rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/ProgramDivision
+:ProgramDivision rdf:type owl:Class ;
+                 owl:hasKey ( :deptHasProgramme
+                            ) ,
+                            ( :progHasDivision
+                            ) .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/Programme
+:Programme rdf:type owl:Class ;
+           owl:equivalentClass [ rdf:type owl:Restriction ;
+                                 owl:onProperty :director ;
+                                 owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                 owl:onClass :SeniorTeacher
+                               ] ;
+           owl:hasKey ( :code
+                      ) .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/ProgrammeCourses
+:ProgrammeCourses rdf:type owl:Class ;
+                  owl:equivalentClass [ rdf:type owl:Restriction ;
+                                        owl:onProperty :inCourse ;
+                                        owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                        owl:onClass :Programme
+                                      ] ,
+                                      [ rdf:type owl:Restriction ;
+                                        owl:onProperty :programPlan ;
+                                        owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                        owl:onClass :Programme
+                                      ] ;
+                  owl:hasKey ( :inCourse
+                             ) ,
+                             ( :programPlan
+                             ) .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/Registration
+:Registration rdf:type owl:Class ;
+              owl:hasKey ( :registrationToCourseInstance
+                         ) ,
+                         ( :studentRegistration
+                         ) .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/SeniorTeacher
+:SeniorTeacher rdf:type owl:Class ;
+               rdfs:subClassOf :Teacher .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/Student
+:Student rdf:type owl:Class ;
+         owl:equivalentClass [ rdf:type owl:Restriction ;
+                               owl:onProperty :enrolledIn ;
+                               owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                               owl:onClass :Programme
+                             ] ;
+         owl:hasKey ( :id
+                    ) .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/Teacher
+:Teacher rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/TeacherDivision
+:TeacherDivision rdf:type owl:Class ;
+                 owl:hasKey ( :teacherDivisionToDiv
+                            ) ,
+                            ( :teacherDivisionToTeacher
+                            ) .
+
+
+###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi
