@@ -11,14 +11,13 @@ Fixat som ttl:
         - Department
         - Courses
         - CourseInstance
-        
+    
     - Relations:
         - Registrations
         - CourseInstanceStaff
         - CourseDivision
-        - 
+        - teacherDivision
 
 Ska fixas som ttl:
-    - teacherDivision
     - CourseInstanceStaff role
     - Division pointer to department

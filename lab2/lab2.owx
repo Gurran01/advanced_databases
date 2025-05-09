@@ -1,0 +1,630 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3">
+    <Prefix name="" IRI="http://www.semanticweb.org/eyobembaye/ontologies/2025/3/untitled-ontology-3/"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="/Assistant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Course"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/CourseDivision"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/CourseInstanceStaff"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/CourseInstances"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Department"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Division"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Enrollment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Examiner"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/ProgramDivision"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Programme"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/ProgrammeCourses"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Registration"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/SeniorTeacher"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Student"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Teacher"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/TeacherDivision"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/DivisionInDepartment"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/courseHasDivision"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/courseId"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/courseInstanceTeacher"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/courseInstancesStaff"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/departmentHasCourse"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/deptHasProgramme"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/director"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/enrolledIn"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/hasProgramme"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/hasStudent"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/inCourse"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/progHasDivision"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/programPlan"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/registrationToCourseInstance"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/studentRegistration"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/teacherDivisionToDiv"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/teacherDivisionToTeacher"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="/academicYear"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="/assignedHours"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="/code"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="/courseType"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="/credit"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="/dept"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="/grade"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="/graduatedAt"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="/id"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="/level"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="/name"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="/planningNumStudents"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="/reportedHours"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="/role"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="/status"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="/studyPeriod"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="/studyYear"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class IRI="/CourseInstances"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="/courseId"/>
+            <Class IRI="/Course"/>
+        </ObjectExactCardinality>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="/Programme"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="/director"/>
+            <Class IRI="/SeniorTeacher"/>
+        </ObjectExactCardinality>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="/ProgrammeCourses"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="/inCourse"/>
+            <Class IRI="/Programme"/>
+        </ObjectExactCardinality>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="/ProgrammeCourses"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="/programPlan"/>
+            <Class IRI="/Programme"/>
+        </ObjectExactCardinality>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="/Student"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="/enrolledIn"/>
+            <Class IRI="/Programme"/>
+        </ObjectExactCardinality>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class IRI="/Assistant"/>
+        <Class IRI="/Teacher"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/SeniorTeacher"/>
+        <Class IRI="/Teacher"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="/Assistant"/>
+        <Class IRI="/Examiner"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="/Assistant"/>
+        <Class IRI="/SeniorTeacher"/>
+    </DisjointClasses>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="/DivisionInDepartment"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/DivisionInDepartment"/>
+        <Class IRI="/Division"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/courseHasDivision"/>
+        <Class IRI="/CourseDivision"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/courseId"/>
+        <Class IRI="/CourseInstances"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/courseInstanceTeacher"/>
+        <Class IRI="/CourseInstanceStaff"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/courseInstancesStaff"/>
+        <Class IRI="/CourseInstanceStaff"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/departmentHasCourse"/>
+        <Class IRI="/CourseDivision"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/deptHasProgramme"/>
+        <Class IRI="/ProgramDivision"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/director"/>
+        <Class IRI="/Programme"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/enrolledIn"/>
+        <Class IRI="/Student"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/hasProgramme"/>
+        <Class IRI="/Enrollment"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/hasStudent"/>
+        <Class IRI="/Enrollment"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/inCourse"/>
+        <Class IRI="/ProgrammeCourses"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/progHasDivision"/>
+        <Class IRI="/ProgramDivision"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/programPlan"/>
+        <Class IRI="/ProgrammeCourses"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/registrationToCourseInstance"/>
+        <Class IRI="/Registration"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/studentRegistration"/>
+        <Class IRI="/Registration"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/teacherDivisionToDiv"/>
+        <Class IRI="/TeacherDivision"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/teacherDivisionToTeacher"/>
+        <Class IRI="/TeacherDivision"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/DivisionInDepartment"/>
+        <ObjectMinCardinality cardinality="1">
+            <ObjectProperty IRI="/DivisionInDepartment"/>
+            <Class IRI="/Department"/>
+        </ObjectMinCardinality>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/courseHasDivision"/>
+        <Class IRI="/Division"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/courseId"/>
+        <Class IRI="/Course"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/courseInstanceTeacher"/>
+        <Class IRI="/Teacher"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/courseInstancesStaff"/>
+        <Class IRI="/CourseInstances"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/departmentHasCourse"/>
+        <Class IRI="/Course"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/deptHasProgramme"/>
+        <Class IRI="/Programme"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/director"/>
+        <Class IRI="/SeniorTeacher"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/enrolledIn"/>
+        <Class IRI="/Programme"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/hasProgramme"/>
+        <Class IRI="/Programme"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/hasStudent"/>
+        <Class IRI="/Student"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/inCourse"/>
+        <Class IRI="/Course"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/progHasDivision"/>
+        <Class IRI="/Division"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/programPlan"/>
+        <Class IRI="/Programme"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/registrationToCourseInstance"/>
+        <Class IRI="/CourseInstances"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/studentRegistration"/>
+        <Class IRI="/Student"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/teacherDivisionToDiv"/>
+        <Class IRI="/Division"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/teacherDivisionToTeacher"/>
+        <Class IRI="/Teacher"/>
+    </ObjectPropertyRange>
+    <DataPropertyDomain>
+        <DataProperty IRI="/academicYear"/>
+        <Class IRI="/CourseInstances"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="/academicYear"/>
+        <Class IRI="/Enrollment"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="/academicYear"/>
+        <Class IRI="/ProgrammeCourses"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="/assignedHours"/>
+        <Class IRI="/CourseInstanceStaff"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="/code"/>
+        <Class IRI="/Course"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="/code"/>
+        <Class IRI="/Programme"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="/courseType"/>
+        <Class IRI="/Course"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="/credit"/>
+        <Class IRI="/Course"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="/dept"/>
+        <Class IRI="/Programme"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="/dept"/>
+        <Class IRI="/Teacher"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="/grade"/>
+        <Class IRI="/Registration"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="/graduatedAt"/>
+        <Class IRI="/Student"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="/id"/>
+        <Class IRI="/Student"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="/id"/>
+        <Class IRI="/Teacher"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="/level"/>
+        <Class IRI="/Course"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="/name"/>
+        <Class IRI="/Course"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="/name"/>
+        <Class IRI="/Department"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="/name"/>
+        <Class IRI="/Division"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="/name"/>
+        <Class IRI="/Programme"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="/name"/>
+        <Class IRI="/Student"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="/name"/>
+        <Class IRI="/Teacher"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="/planningNumStudents"/>
+        <Class IRI="/CourseInstances"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="/reportedHours"/>
+        <Class IRI="/CourseInstanceStaff"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="/role"/>
+        <Class IRI="/CourseInstanceStaff"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="/status"/>
+        <Class IRI="/Registration"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="/studyPeriod"/>
+        <Class IRI="/CourseInstances"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="/studyYear"/>
+        <Class IRI="/ProgrammeCourses"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="/academicYear"/>
+        <Datatype abbreviatedIRI="xsd:dateTime"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="/assignedHours"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="/code"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="/courseType"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="/credit"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="/dept"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="/grade"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="/graduatedAt"/>
+        <Datatype abbreviatedIRI="xsd:dateTime"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="/id"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="/level"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="/name"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="/planningNumStudents"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="/reportedHours"/>
+        <Datatype abbreviatedIRI="xsd:integer"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="/role"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="/status"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="/studyPeriod"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="/studyYear"/>
+        <Datatype abbreviatedIRI="xsd:dateTime"/>
+    </DataPropertyRange>
+    <HasKey>
+        <Class IRI="/Course"/>
+        <DataProperty IRI="/code"/>
+    </HasKey>
+    <HasKey>
+        <Class IRI="/CourseDivision"/>
+        <ObjectProperty IRI="/courseHasDivision"/>
+    </HasKey>
+    <HasKey>
+        <Class IRI="/CourseDivision"/>
+        <ObjectProperty IRI="/departmentHasCourse"/>
+    </HasKey>
+    <HasKey>
+        <Class IRI="/CourseInstanceStaff"/>
+        <ObjectProperty IRI="/courseInstanceTeacher"/>
+    </HasKey>
+    <HasKey>
+        <Class IRI="/CourseInstanceStaff"/>
+        <ObjectProperty IRI="/courseInstancesStaff"/>
+    </HasKey>
+    <HasKey>
+        <Class IRI="/CourseInstances"/>
+        <ObjectProperty IRI="/courseId"/>
+    </HasKey>
+    <HasKey>
+        <Class IRI="/CourseInstances"/>
+        <DataProperty IRI="/academicYear"/>
+    </HasKey>
+    <HasKey>
+        <Class IRI="/CourseInstances"/>
+        <DataProperty IRI="/studyPeriod"/>
+    </HasKey>
+    <HasKey>
+        <Class IRI="/Division"/>
+        <DataProperty IRI="/name"/>
+    </HasKey>
+    <HasKey>
+        <Class IRI="/ProgramDivision"/>
+        <ObjectProperty IRI="/deptHasProgramme"/>
+    </HasKey>
+    <HasKey>
+        <Class IRI="/ProgramDivision"/>
+        <ObjectProperty IRI="/progHasDivision"/>
+    </HasKey>
+    <HasKey>
+        <Class IRI="/Programme"/>
+        <DataProperty IRI="/code"/>
+    </HasKey>
+    <HasKey>
+        <Class IRI="/ProgrammeCourses"/>
+        <ObjectProperty IRI="/inCourse"/>
+    </HasKey>
+    <HasKey>
+        <Class IRI="/ProgrammeCourses"/>
+        <ObjectProperty IRI="/programPlan"/>
+    </HasKey>
+    <HasKey>
+        <Class IRI="/Registration"/>
+        <ObjectProperty IRI="/registrationToCourseInstance"/>
+    </HasKey>
+    <HasKey>
+        <Class IRI="/Registration"/>
+        <ObjectProperty IRI="/studentRegistration"/>
+    </HasKey>
+    <HasKey>
+        <Class IRI="/Student"/>
+        <DataProperty IRI="/id"/>
+    </HasKey>
+    <HasKey>
+        <Class IRI="/TeacherDivision"/>
+        <ObjectProperty IRI="/teacherDivisionToDiv"/>
+    </HasKey>
+    <HasKey>
+        <Class IRI="/TeacherDivision"/>
+        <ObjectProperty IRI="/teacherDivisionToTeacher"/>
+    </HasKey>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi -->
+

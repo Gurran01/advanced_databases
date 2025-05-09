@@ -1,0 +1,564 @@
+@prefix : <http://example.org/university#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:teacher_19781125-0031_D6-0 rdf:type :teacherDivision ;
+    :teacherId "19781125-0031"^^xsd:string ;
+    :division "D6-0"^^xsd:string .
+
+:teacher_19750906-0032_D3-2 rdf:type :teacherDivision ;
+    :teacherId "19750906-0032"^^xsd:string ;
+    :division "D3-2"^^xsd:string .
+
+:teacher_19750705-0033_D6-1 rdf:type :teacherDivision ;
+    :teacherId "19750705-0033"^^xsd:string ;
+    :division "D6-1"^^xsd:string .
+
+:teacher_19761024-0034_D5-1 rdf:type :teacherDivision ;
+    :teacherId "19761024-0034"^^xsd:string ;
+    :division "D5-1"^^xsd:string .
+
+:teacher_19780602-0035_D8-2 rdf:type :teacherDivision ;
+    :teacherId "19780602-0035"^^xsd:string ;
+    :division "D8-2"^^xsd:string .
+
+:teacher_19750331-0036_D3-3 rdf:type :teacherDivision ;
+    :teacherId "19750331-0036"^^xsd:string ;
+    :division "D3-3"^^xsd:string .
+
+:teacher_19750220-0037_D5-3 rdf:type :teacherDivision ;
+    :teacherId "19750220-0037"^^xsd:string ;
+    :division "D5-3"^^xsd:string .
+
+:teacher_19790702-0038_D3-4 rdf:type :teacherDivision ;
+    :teacherId "19790702-0038"^^xsd:string ;
+    :division "D3-4"^^xsd:string .
+
+:teacher_19751018-0039_D6-4 rdf:type :teacherDivision ;
+    :teacherId "19751018-0039"^^xsd:string ;
+    :division "D6-4"^^xsd:string .
+
+:teacher_19771013-0040_D2-4 rdf:type :teacherDivision ;
+    :teacherId "19771013-0040"^^xsd:string ;
+    :division "D2-4"^^xsd:string .
+
+:teacher_19790708-0041_D5-2 rdf:type :teacherDivision ;
+    :teacherId "19790708-0041"^^xsd:string ;
+    :division "D5-2"^^xsd:string .
+
+:teacher_19770713-0042_D6-1 rdf:type :teacherDivision ;
+    :teacherId "19770713-0042"^^xsd:string ;
+    :division "D6-1"^^xsd:string .
+
+:teacher_19750512-0043_D5-0 rdf:type :teacherDivision ;
+    :teacherId "19750512-0043"^^xsd:string ;
+    :division "D5-0"^^xsd:string .
+
+:teacher_19761020-0044_D6-5 rdf:type :teacherDivision ;
+    :teacherId "19761020-0044"^^xsd:string ;
+    :division "D6-5"^^xsd:string .
+
+:teacher_19790717-0045_D1-2 rdf:type :teacherDivision ;
+    :teacherId "19790717-0045"^^xsd:string ;
+    :division "D1-2"^^xsd:string .
+
+:teacher_19760524-0046_D4-1 rdf:type :teacherDivision ;
+    :teacherId "19760524-0046"^^xsd:string ;
+    :division "D4-1"^^xsd:string .
+
+:teacher_19780815-0047_D7-2 rdf:type :teacherDivision ;
+    :teacherId "19780815-0047"^^xsd:string ;
+    :division "D7-2"^^xsd:string .
+
+:teacher_19790618-0048_D2-5 rdf:type :teacherDivision ;
+    :teacherId "19790618-0048"^^xsd:string ;
+    :division "D2-5"^^xsd:string .
+
+:teacher_19790426-0049_D8-3 rdf:type :teacherDivision ;
+    :teacherId "19790426-0049"^^xsd:string ;
+    :division "D8-3"^^xsd:string .
+
+:teacher_19760108-0050_D1-1 rdf:type :teacherDivision ;
+    :teacherId "19760108-0050"^^xsd:string ;
+    :division "D1-1"^^xsd:string .
+
+:teacher_19750417-0051_D3-1 rdf:type :teacherDivision ;
+    :teacherId "19750417-0051"^^xsd:string ;
+    :division "D3-1"^^xsd:string .
+
+:teacher_19780317-0052_D5-3 rdf:type :teacherDivision ;
+    :teacherId "19780317-0052"^^xsd:string ;
+    :division "D5-3"^^xsd:string .
+
+:teacher_19781217-0053_D1-3 rdf:type :teacherDivision ;
+    :teacherId "19781217-0053"^^xsd:string ;
+    :division "D1-3"^^xsd:string .
+
+:teacher_19781130-0054_D6-1 rdf:type :teacherDivision ;
+    :teacherId "19781130-0054"^^xsd:string ;
+    :division "D6-1"^^xsd:string .
+
+:teacher_19761009-0055_D5-2 rdf:type :teacherDivision ;
+    :teacherId "19761009-0055"^^xsd:string ;
+    :division "D5-2"^^xsd:string .
+
+:teacher_19750122-0056_D3-3 rdf:type :teacherDivision ;
+    :teacherId "19750122-0056"^^xsd:string ;
+    :division "D3-3"^^xsd:string .
+
+:teacher_19780424-0057_D1-4 rdf:type :teacherDivision ;
+    :teacherId "19780424-0057"^^xsd:string ;
+    :division "D1-4"^^xsd:string .
+
+:teacher_19770224-0058_D4-4 rdf:type :teacherDivision ;
+    :teacherId "19770224-0058"^^xsd:string ;
+    :division "D4-4"^^xsd:string .
+
+:teacher_19750102-0059_D3-0 rdf:type :teacherDivision ;
+    :teacherId "19750102-0059"^^xsd:string ;
+    :division "D3-0"^^xsd:string .
+
+:teacher_19750722-0060_D4-1 rdf:type :teacherDivision ;
+    :teacherId "19750722-0060"^^xsd:string ;
+    :division "D4-1"^^xsd:string .
+
+:teacher_19930508-0061_D1-4 rdf:type :teacherDivision ;
+    :teacherId "19930508-0061"^^xsd:string ;
+    :division "D1-4"^^xsd:string .
+
+:teacher_19931118-0062_D1-5 rdf:type :teacherDivision ;
+    :teacherId "19931118-0062"^^xsd:string ;
+    :division "D1-5"^^xsd:string .
+
+:teacher_19900520-0063_D2-1 rdf:type :teacherDivision ;
+    :teacherId "19900520-0063"^^xsd:string ;
+    :division "D2-1"^^xsd:string .
+
+:teacher_19900124-0064_D7-4 rdf:type :teacherDivision ;
+    :teacherId "19900124-0064"^^xsd:string ;
+    :division "D7-4"^^xsd:string .
+
+:teacher_19920122-0065_D8-4 rdf:type :teacherDivision ;
+    :teacherId "19920122-0065"^^xsd:string ;
+    :division "D8-4"^^xsd:string .
+
+:teacher_19931203-0066_D2-4 rdf:type :teacherDivision ;
+    :teacherId "19931203-0066"^^xsd:string ;
+    :division "D2-4"^^xsd:string .
+
+:teacher_19910421-0067_D4-3 rdf:type :teacherDivision ;
+    :teacherId "19910421-0067"^^xsd:string ;
+    :division "D4-3"^^xsd:string .
+
+:teacher_19910514-0068_D7-1 rdf:type :teacherDivision ;
+    :teacherId "19910514-0068"^^xsd:string ;
+    :division "D7-1"^^xsd:string .
+
+:teacher_19911116-0069_D7-2 rdf:type :teacherDivision ;
+    :teacherId "19911116-0069"^^xsd:string ;
+    :division "D7-2"^^xsd:string .
+
+:teacher_19920828-0070_D7-4 rdf:type :teacherDivision ;
+    :teacherId "19920828-0070"^^xsd:string ;
+    :division "D7-4"^^xsd:string .
+
+:teacher_19901029-0071_D4-2 rdf:type :teacherDivision ;
+    :teacherId "19901029-0071"^^xsd:string ;
+    :division "D4-2"^^xsd:string .
+
+:teacher_19920206-0072_D5-0 rdf:type :teacherDivision ;
+    :teacherId "19920206-0072"^^xsd:string ;
+    :division "D5-0"^^xsd:string .
+
+:teacher_19920602-0073_D4-5 rdf:type :teacherDivision ;
+    :teacherId "19920602-0073"^^xsd:string ;
+    :division "D4-5"^^xsd:string .
+
+:teacher_19900201-0074_D2-5 rdf:type :teacherDivision ;
+    :teacherId "19900201-0074"^^xsd:string ;
+    :division "D2-5"^^xsd:string .
+
+:teacher_19920226-0075_D7-3 rdf:type :teacherDivision ;
+    :teacherId "19920226-0075"^^xsd:string ;
+    :division "D7-3"^^xsd:string .
+
+:teacher_19900619-0076_D4-3 rdf:type :teacherDivision ;
+    :teacherId "19900619-0076"^^xsd:string ;
+    :division "D4-3"^^xsd:string .
+
+:teacher_19910122-0077_D3-0 rdf:type :teacherDivision ;
+    :teacherId "19910122-0077"^^xsd:string ;
+    :division "D3-0"^^xsd:string .
+
+:teacher_19910820-0078_D6-2 rdf:type :teacherDivision ;
+    :teacherId "19910820-0078"^^xsd:string ;
+    :division "D6-2"^^xsd:string .
+
+:teacher_19931212-0079_D4-2 rdf:type :teacherDivision ;
+    :teacherId "19931212-0079"^^xsd:string ;
+    :division "D4-2"^^xsd:string .
+
+:teacher_19900321-0080_D4-3 rdf:type :teacherDivision ;
+    :teacherId "19900321-0080"^^xsd:string ;
+    :division "D4-3"^^xsd:string .
+
+:teacher_19910206-0081_D2-1 rdf:type :teacherDivision ;
+    :teacherId "19910206-0081"^^xsd:string ;
+    :division "D2-1"^^xsd:string .
+
+:teacher_19930829-0082_D3-5 rdf:type :teacherDivision ;
+    :teacherId "19930829-0082"^^xsd:string ;
+    :division "D3-5"^^xsd:string .
+
+:teacher_19900317-0083_D2-5 rdf:type :teacherDivision ;
+    :teacherId "19900317-0083"^^xsd:string ;
+    :division "D2-5"^^xsd:string .
+
+:teacher_19910214-0084_D6-1 rdf:type :teacherDivision ;
+    :teacherId "19910214-0084"^^xsd:string ;
+    :division "D6-1"^^xsd:string .
+
+:teacher_19901002-0085_D2-0 rdf:type :teacherDivision ;
+    :teacherId "19901002-0085"^^xsd:string ;
+    :division "D2-0"^^xsd:string .
+
+:teacher_19930228-0086_D8-0 rdf:type :teacherDivision ;
+    :teacherId "19930228-0086"^^xsd:string ;
+    :division "D8-0"^^xsd:string .
+
+:teacher_19901108-0087_D7-4 rdf:type :teacherDivision ;
+    :teacherId "19901108-0087"^^xsd:string ;
+    :division "D7-4"^^xsd:string .
+
+:teacher_19920826-0088_D8-5 rdf:type :teacherDivision ;
+    :teacherId "19920826-0088"^^xsd:string ;
+    :division "D8-5"^^xsd:string .
+
+:teacher_19900426-0089_D7-0 rdf:type :teacherDivision ;
+    :teacherId "19900426-0089"^^xsd:string ;
+    :division "D7-0"^^xsd:string .
+
+:teacher_19900902-0090_D5-3 rdf:type :teacherDivision ;
+    :teacherId "19900902-0090"^^xsd:string ;
+    :division "D5-3"^^xsd:string .
+
+:teacher_19911025-0091_D4-3 rdf:type :teacherDivision ;
+    :teacherId "19911025-0091"^^xsd:string ;
+    :division "D4-3"^^xsd:string .
+
+:teacher_19910817-0092_D3-4 rdf:type :teacherDivision ;
+    :teacherId "19910817-0092"^^xsd:string ;
+    :division "D3-4"^^xsd:string .
+
+:teacher_19920504-0093_D6-2 rdf:type :teacherDivision ;
+    :teacherId "19920504-0093"^^xsd:string ;
+    :division "D6-2"^^xsd:string .
+
+:teacher_19921201-0094_D8-3 rdf:type :teacherDivision ;
+    :teacherId "19921201-0094"^^xsd:string ;
+    :division "D8-3"^^xsd:string .
+
+:teacher_19900128-0095_D8-5 rdf:type :teacherDivision ;
+    :teacherId "19900128-0095"^^xsd:string ;
+    :division "D8-5"^^xsd:string .
+
+:teacher_19910327-0096_D8-4 rdf:type :teacherDivision ;
+    :teacherId "19910327-0096"^^xsd:string ;
+    :division "D8-4"^^xsd:string .
+
+:teacher_19921208-0097_D7-4 rdf:type :teacherDivision ;
+    :teacherId "19921208-0097"^^xsd:string ;
+    :division "D7-4"^^xsd:string .
+
+:teacher_19920217-0098_D7-4 rdf:type :teacherDivision ;
+    :teacherId "19920217-0098"^^xsd:string ;
+    :division "D7-4"^^xsd:string .
+
+:teacher_19931231-0099_D2-5 rdf:type :teacherDivision ;
+    :teacherId "19931231-0099"^^xsd:string ;
+    :division "D2-5"^^xsd:string .
+
+:teacher_19930709-0100_D1-4 rdf:type :teacherDivision ;
+    :teacherId "19930709-0100"^^xsd:string ;
+    :division "D1-4"^^xsd:string .
+
+:teacher_19921218-0101_D5-2 rdf:type :teacherDivision ;
+    :teacherId "19921218-0101"^^xsd:string ;
+    :division "D5-2"^^xsd:string .
+
+:teacher_19910404-0102_D1-4 rdf:type :teacherDivision ;
+    :teacherId "19910404-0102"^^xsd:string ;
+    :division "D1-4"^^xsd:string .
+
+:teacher_19910403-0103_D7-2 rdf:type :teacherDivision ;
+    :teacherId "19910403-0103"^^xsd:string ;
+    :division "D7-2"^^xsd:string .
+
+:teacher_19900119-0104_D6-5 rdf:type :teacherDivision ;
+    :teacherId "19900119-0104"^^xsd:string ;
+    :division "D6-5"^^xsd:string .
+
+:teacher_19900307-0105_D2-3 rdf:type :teacherDivision ;
+    :teacherId "19900307-0105"^^xsd:string ;
+    :division "D2-3"^^xsd:string .
+
+:teacher_19930414-0106_D7-4 rdf:type :teacherDivision ;
+    :teacherId "19930414-0106"^^xsd:string ;
+    :division "D7-4"^^xsd:string .
+
+:teacher_19920316-0107_D7-4 rdf:type :teacherDivision ;
+    :teacherId "19920316-0107"^^xsd:string ;
+    :division "D7-4"^^xsd:string .
+
+:teacher_19921123-0108_D2-4 rdf:type :teacherDivision ;
+    :teacherId "19921123-0108"^^xsd:string ;
+    :division "D2-4"^^xsd:string .
+
+:teacher_19920917-0109_D4-5 rdf:type :teacherDivision ;
+    :teacherId "19920917-0109"^^xsd:string ;
+    :division "D4-5"^^xsd:string .
+
+:teacher_19930906-0110_D3-0 rdf:type :teacherDivision ;
+    :teacherId "19930906-0110"^^xsd:string ;
+    :division "D3-0"^^xsd:string .
+
+:teacher_19901026-0111_D3-5 rdf:type :teacherDivision ;
+    :teacherId "19901026-0111"^^xsd:string ;
+    :division "D3-5"^^xsd:string .
+
+:teacher_19900430-0112_D6-0 rdf:type :teacherDivision ;
+    :teacherId "19900430-0112"^^xsd:string ;
+    :division "D6-0"^^xsd:string .
+
+:teacher_19900701-0113_D1-0 rdf:type :teacherDivision ;
+    :teacherId "19900701-0113"^^xsd:string ;
+    :division "D1-0"^^xsd:string .
+
+:teacher_19900902-0114_D6-0 rdf:type :teacherDivision ;
+    :teacherId "19900902-0114"^^xsd:string ;
+    :division "D6-0"^^xsd:string .
+
+:teacher_19920505-0115_D3-3 rdf:type :teacherDivision ;
+    :teacherId "19920505-0115"^^xsd:string ;
+    :division "D3-3"^^xsd:string .
+
+:teacher_19900818-0116_D4-5 rdf:type :teacherDivision ;
+    :teacherId "19900818-0116"^^xsd:string ;
+    :division "D4-5"^^xsd:string .
+
+:teacher_19930512-0117_D4-2 rdf:type :teacherDivision ;
+    :teacherId "19930512-0117"^^xsd:string ;
+    :division "D4-2"^^xsd:string .
+
+:teacher_19931226-0118_D8-4 rdf:type :teacherDivision ;
+    :teacherId "19931226-0118"^^xsd:string ;
+    :division "D8-4"^^xsd:string .
+
+:teacher_19901011-0119_D2-1 rdf:type :teacherDivision ;
+    :teacherId "19901011-0119"^^xsd:string ;
+    :division "D2-1"^^xsd:string .
+
+:teacher_19921127-0120_D4-3 rdf:type :teacherDivision ;
+    :teacherId "19921127-0120"^^xsd:string ;
+    :division "D4-3"^^xsd:string .
+
+:teacher_19920320-0121_D2-2 rdf:type :teacherDivision ;
+    :teacherId "19920320-0121"^^xsd:string ;
+    :division "D2-2"^^xsd:string .
+
+:teacher_19910822-0122_D5-4 rdf:type :teacherDivision ;
+    :teacherId "19910822-0122"^^xsd:string ;
+    :division "D5-4"^^xsd:string .
+
+:teacher_19900909-0123_D6-0 rdf:type :teacherDivision ;
+    :teacherId "19900909-0123"^^xsd:string ;
+    :division "D6-0"^^xsd:string .
+
+:teacher_19900616-0124_D6-2 rdf:type :teacherDivision ;
+    :teacherId "19900616-0124"^^xsd:string ;
+    :division "D6-2"^^xsd:string .
+
+:teacher_19901219-0125_D7-1 rdf:type :teacherDivision ;
+    :teacherId "19901219-0125"^^xsd:string ;
+    :division "D7-1"^^xsd:string .
+
+:teacher_19900723-0126_D1-2 rdf:type :teacherDivision ;
+    :teacherId "19900723-0126"^^xsd:string ;
+    :division "D1-2"^^xsd:string .
+
+:teacher_19930616-0127_D3-1 rdf:type :teacherDivision ;
+    :teacherId "19930616-0127"^^xsd:string ;
+    :division "D3-1"^^xsd:string .
+
+:teacher_19910927-0128_D7-3 rdf:type :teacherDivision ;
+    :teacherId "19910927-0128"^^xsd:string ;
+    :division "D7-3"^^xsd:string .
+
+:teacher_19921002-0129_D1-1 rdf:type :teacherDivision ;
+    :teacherId "19921002-0129"^^xsd:string ;
+    :division "D1-1"^^xsd:string .
+
+:teacher_19900801-0130_D2-2 rdf:type :teacherDivision ;
+    :teacherId "19900801-0130"^^xsd:string ;
+    :division "D2-2"^^xsd:string .
+
+:teacher_19910403-0131_D8-4 rdf:type :teacherDivision ;
+    :teacherId "19910403-0131"^^xsd:string ;
+    :division "D8-4"^^xsd:string .
+
+:teacher_19930326-0132_D4-0 rdf:type :teacherDivision ;
+    :teacherId "19930326-0132"^^xsd:string ;
+    :division "D4-0"^^xsd:string .
+
+:teacher_19910101-0133_D7-3 rdf:type :teacherDivision ;
+    :teacherId "19910101-0133"^^xsd:string ;
+    :division "D7-3"^^xsd:string .
+
+:teacher_19900511-0134_D6-2 rdf:type :teacherDivision ;
+    :teacherId "19900511-0134"^^xsd:string ;
+    :division "D6-2"^^xsd:string .
+
+:teacher_19930302-0135_D6-2 rdf:type :teacherDivision ;
+    :teacherId "19930302-0135"^^xsd:string ;
+    :division "D6-2"^^xsd:string .
+
+:teacher_19910921-0136_D3-1 rdf:type :teacherDivision ;
+    :teacherId "19910921-0136"^^xsd:string ;
+    :division "D3-1"^^xsd:string .
+
+:teacher_19930919-0137_D8-2 rdf:type :teacherDivision ;
+    :teacherId "19930919-0137"^^xsd:string ;
+    :division "D8-2"^^xsd:string .
+
+:teacher_19900701-0138_D5-1 rdf:type :teacherDivision ;
+    :teacherId "19900701-0138"^^xsd:string ;
+    :division "D5-1"^^xsd:string .
+
+:teacher_19930221-0139_D3-5 rdf:type :teacherDivision ;
+    :teacherId "19930221-0139"^^xsd:string ;
+    :division "D3-5"^^xsd:string .
+
+:teacher_19900211-0140_D5-0 rdf:type :teacherDivision ;
+    :teacherId "19900211-0140"^^xsd:string ;
+    :division "D5-0"^^xsd:string .
+
+:teacher_19630126-0001_D4-3 rdf:type :teacherDivision ;
+    :teacherId "19630126-0001"^^xsd:string ;
+    :division "D4-3"^^xsd:string .
+
+:teacher_19600814-0002_D7-4 rdf:type :teacherDivision ;
+    :teacherId "19600814-0002"^^xsd:string ;
+    :division "D7-4"^^xsd:string .
+
+:teacher_19600905-0003_D7-1 rdf:type :teacherDivision ;
+    :teacherId "19600905-0003"^^xsd:string ;
+    :division "D7-1"^^xsd:string .
+
+:teacher_19590129-0004_D3-3 rdf:type :teacherDivision ;
+    :teacherId "19590129-0004"^^xsd:string ;
+    :division "D3-3"^^xsd:string .
+
+:teacher_19610623-0005_D5-2 rdf:type :teacherDivision ;
+    :teacherId "19610623-0005"^^xsd:string ;
+    :division "D5-2"^^xsd:string .
+
+:teacher_19610620-0006_D5-0 rdf:type :teacherDivision ;
+    :teacherId "19610620-0006"^^xsd:string ;
+    :division "D5-0"^^xsd:string .
+
+:teacher_19580218-0007_D4-1 rdf:type :teacherDivision ;
+    :teacherId "19580218-0007"^^xsd:string ;
+    :division "D4-1"^^xsd:string .
+
+:teacher_19570828-0008_D4-0 rdf:type :teacherDivision ;
+    :teacherId "19570828-0008"^^xsd:string ;
+    :division "D4-0"^^xsd:string .
+
+:teacher_19690408-0009_D3-5 rdf:type :teacherDivision ;
+    :teacherId "19690408-0009"^^xsd:string ;
+    :division "D3-5"^^xsd:string .
+
+:teacher_19560612-0010_D3-2 rdf:type :teacherDivision ;
+    :teacherId "19560612-0010"^^xsd:string ;
+    :division "D3-2"^^xsd:string .
+
+:teacher_19570615-0011_D5-3 rdf:type :teacherDivision ;
+    :teacherId "19570615-0011"^^xsd:string ;
+    :division "D5-3"^^xsd:string .
+
+:teacher_19570826-0012_D7-5 rdf:type :teacherDivision ;
+    :teacherId "19570826-0012"^^xsd:string ;
+    :division "D7-5"^^xsd:string .
+
+:teacher_19640414-0013_D4-1 rdf:type :teacherDivision ;
+    :teacherId "19640414-0013"^^xsd:string ;
+    :division "D4-1"^^xsd:string .
+
+:teacher_19611219-0014_D6-3 rdf:type :teacherDivision ;
+    :teacherId "19611219-0014"^^xsd:string ;
+    :division "D6-3"^^xsd:string .
+
+:teacher_19690513-0015_D7-5 rdf:type :teacherDivision ;
+    :teacherId "19690513-0015"^^xsd:string ;
+    :division "D7-5"^^xsd:string .
+
+:teacher_19560812-0016_D3-1 rdf:type :teacherDivision ;
+    :teacherId "19560812-0016"^^xsd:string ;
+    :division "D3-1"^^xsd:string .
+
+:teacher_19580515-0017_D6-3 rdf:type :teacherDivision ;
+    :teacherId "19580515-0017"^^xsd:string ;
+    :division "D6-3"^^xsd:string .
+
+:teacher_19601021-0018_D1-3 rdf:type :teacherDivision ;
+    :teacherId "19601021-0018"^^xsd:string ;
+    :division "D1-3"^^xsd:string .
+
+:teacher_19650303-0019_D6-4 rdf:type :teacherDivision ;
+    :teacherId "19650303-0019"^^xsd:string ;
+    :division "D6-4"^^xsd:string .
+
+:teacher_19660630-0020_D7-5 rdf:type :teacherDivision ;
+    :teacherId "19660630-0020"^^xsd:string ;
+    :division "D7-5"^^xsd:string .
+
+:teacher_19600529-0021_D3-5 rdf:type :teacherDivision ;
+    :teacherId "19600529-0021"^^xsd:string ;
+    :division "D3-5"^^xsd:string .
+
+:teacher_19690917-0022_D1-3 rdf:type :teacherDivision ;
+    :teacherId "19690917-0022"^^xsd:string ;
+    :division "D1-3"^^xsd:string .
+
+:teacher_19620522-0023_D2-2 rdf:type :teacherDivision ;
+    :teacherId "19620522-0023"^^xsd:string ;
+    :division "D2-2"^^xsd:string .
+
+:teacher_19620831-0024_D6-0 rdf:type :teacherDivision ;
+    :teacherId "19620831-0024"^^xsd:string ;
+    :division "D6-0"^^xsd:string .
+
+:teacher_19560705-0025_D7-4 rdf:type :teacherDivision ;
+    :teacherId "19560705-0025"^^xsd:string ;
+    :division "D7-4"^^xsd:string .
+
+:teacher_19620424-0026_D7-1 rdf:type :teacherDivision ;
+    :teacherId "19620424-0026"^^xsd:string ;
+    :division "D7-1"^^xsd:string .
+
+:teacher_19610918-0027_D4-3 rdf:type :teacherDivision ;
+    :teacherId "19610918-0027"^^xsd:string ;
+    :division "D4-3"^^xsd:string .
+
+:teacher_19680712-0028_D6-0 rdf:type :teacherDivision ;
+    :teacherId "19680712-0028"^^xsd:string ;
+    :division "D6-0"^^xsd:string .
+
+:teacher_19640220-0029_D6-5 rdf:type :teacherDivision ;
+    :teacherId "19640220-0029"^^xsd:string ;
+    :division "D6-5"^^xsd:string .
+
+:teacher_19561222-0030_D2-2 rdf:type :teacherDivision ;
+    :teacherId "19561222-0030"^^xsd:string ;
+    :division "D2-2"^^xsd:string .
+

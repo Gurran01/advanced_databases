@@ -5,2870 +5,2870 @@
 :student19970308-0000 rdf:type :Student ;
     :studentId "19970308-0000"^^xsd:string ;
     :studentName "Student 1"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10054 .
 
 :student19960213-0001 rdf:type :Student ;
     :studentId "19960213-0001"^^xsd:string ;
     :studentName "Student 2"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10011 .
 
 :student19960328-0002 rdf:type :Student ;
     :studentId "19960328-0002"^^xsd:string ;
     :studentName "Student 3"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10013 .
 
 :student19980905-0003 rdf:type :Student ;
     :studentId "19980905-0003"^^xsd:string ;
     :studentName "Student 4"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10012 .
 
 :student19970413-0004 rdf:type :Student ;
     :studentId "19970413-0004"^^xsd:string ;
     :studentName "Student 5"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10052 .
 
 :student19990816-0005 rdf:type :Student ;
     :studentId "19990816-0005"^^xsd:string ;
     :studentName "Student 6"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10021 .
 
 :student19990626-0006 rdf:type :Student ;
     :studentId "19990626-0006"^^xsd:string ;
     :studentName "Student 7"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10074 .
 
 :student19950304-0007 rdf:type :Student ;
     :studentId "19950304-0007"^^xsd:string ;
     :studentName "Student 8"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10071 .
 
 :student19991025-0008 rdf:type :Student ;
     :studentId "19991025-0008"^^xsd:string ;
     :studentName "Student 9"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10033 .
 
 :student19950606-0009 rdf:type :Student ;
     :studentId "19950606-0009"^^xsd:string ;
     :studentName "Student 10"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10042 .
 
 :student19951026-0010 rdf:type :Student ;
     :studentId "19951026-0010"^^xsd:string ;
     :studentName "Student 11"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10011 .
 
 :student19990305-0011 rdf:type :Student ;
     :studentId "19990305-0011"^^xsd:string ;
     :studentName "Student 12"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19970727-0012 rdf:type :Student ;
     :studentId "19970727-0012"^^xsd:string ;
     :studentName "Student 13"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10052 .
 
 :student19990219-0013 rdf:type :Student ;
     :studentId "19990219-0013"^^xsd:string ;
     :studentName "Student 14"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10012 .
 
 :student19970318-0014 rdf:type :Student ;
     :studentId "19970318-0014"^^xsd:string ;
     :studentName "Student 15"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10051 .
 
 :student19970109-0015 rdf:type :Student ;
     :studentId "19970109-0015"^^xsd:string ;
     :studentName "Student 16"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10021 .
 
 :student19950717-0016 rdf:type :Student ;
     :studentId "19950717-0016"^^xsd:string ;
     :studentName "Student 17"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10042 .
 
 :student19990705-0017 rdf:type :Student ;
     :studentId "19990705-0017"^^xsd:string ;
     :studentName "Student 18"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10053 .
 
 :student19971007-0018 rdf:type :Student ;
     :studentId "19971007-0018"^^xsd:string ;
     :studentName "Student 19"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10072 .
 
 :student19990124-0019 rdf:type :Student ;
     :studentId "19990124-0019"^^xsd:string ;
     :studentName "Student 20"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19990831-0020 rdf:type :Student ;
     :studentId "19990831-0020"^^xsd:string ;
     :studentName "Student 21"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10061 .
 
 :student19971122-0021 rdf:type :Student ;
     :studentId "19971122-0021"^^xsd:string ;
     :studentName "Student 22"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10054 .
 
 :student19980414-0022 rdf:type :Student ;
     :studentId "19980414-0022"^^xsd:string ;
     :studentName "Student 23"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10073 .
 
 :student19980609-0023 rdf:type :Student ;
     :studentId "19980609-0023"^^xsd:string ;
     :studentName "Student 24"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10042 .
 
 :student19980212-0024 rdf:type :Student ;
     :studentId "19980212-0024"^^xsd:string ;
     :studentName "Student 25"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10042 .
 
 :student19990805-0025 rdf:type :Student ;
     :studentId "19990805-0025"^^xsd:string ;
     :studentName "Student 26"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10051 .
 
 :student19970609-0026 rdf:type :Student ;
     :studentId "19970609-0026"^^xsd:string ;
     :studentName "Student 27"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10061 .
 
 :student19951123-0027 rdf:type :Student ;
     :studentId "19951123-0027"^^xsd:string ;
     :studentName "Student 28"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10073 .
 
 :student19960701-0028 rdf:type :Student ;
     :studentId "19960701-0028"^^xsd:string ;
     :studentName "Student 29"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10021 .
 
 :student19960220-0029 rdf:type :Student ;
     :studentId "19960220-0029"^^xsd:string ;
     :studentName "Student 30"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10061 .
 
 :student19990211-0030 rdf:type :Student ;
     :studentId "19990211-0030"^^xsd:string ;
     :studentName "Student 31"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10051 .
 
 :student19961018-0031 rdf:type :Student ;
     :studentId "19961018-0031"^^xsd:string ;
     :studentName "Student 32"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19960307-0032 rdf:type :Student ;
     :studentId "19960307-0032"^^xsd:string ;
     :studentName "Student 33"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10034 .
 
 :student19960822-0033 rdf:type :Student ;
     :studentId "19960822-0033"^^xsd:string ;
     :studentName "Student 34"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10014 .
 
 :student19961012-0034 rdf:type :Student ;
     :studentId "19961012-0034"^^xsd:string ;
     :studentName "Student 35"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10042 .
 
 :student19960610-0035 rdf:type :Student ;
     :studentId "19960610-0035"^^xsd:string ;
     :studentName "Student 36"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10032 .
 
 :student19990302-0036 rdf:type :Student ;
     :studentId "19990302-0036"^^xsd:string ;
     :studentName "Student 37"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10061 .
 
 :student19950801-0037 rdf:type :Student ;
     :studentId "19950801-0037"^^xsd:string ;
     :studentName "Student 38"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10072 .
 
 :student19960222-0038 rdf:type :Student ;
     :studentId "19960222-0038"^^xsd:string ;
     :studentName "Student 39"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10051 .
 
 :student19960828-0039 rdf:type :Student ;
     :studentId "19960828-0039"^^xsd:string ;
     :studentName "Student 40"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10031 .
 
 :student19960118-0040 rdf:type :Student ;
     :studentId "19960118-0040"^^xsd:string ;
     :studentName "Student 41"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10012 .
 
 :student19980206-0041 rdf:type :Student ;
     :studentId "19980206-0041"^^xsd:string ;
     :studentName "Student 42"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10012 .
 
 :student19991130-0042 rdf:type :Student ;
     :studentId "19991130-0042"^^xsd:string ;
     :studentName "Student 43"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10074 .
 
 :student19981023-0043 rdf:type :Student ;
     :studentId "19981023-0043"^^xsd:string ;
     :studentName "Student 44"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19950824-0044 rdf:type :Student ;
     :studentId "19950824-0044"^^xsd:string ;
     :studentName "Student 45"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10033 .
 
 :student19961220-0045 rdf:type :Student ;
     :studentId "19961220-0045"^^xsd:string ;
     :studentName "Student 46"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10012 .
 
 :student19950308-0046 rdf:type :Student ;
     :studentId "19950308-0046"^^xsd:string ;
     :studentName "Student 47"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19990824-0047 rdf:type :Student ;
     :studentId "19990824-0047"^^xsd:string ;
     :studentName "Student 48"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10071 .
 
 :student19970301-0048 rdf:type :Student ;
     :studentId "19970301-0048"^^xsd:string ;
     :studentName "Student 49"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10034 .
 
 :student19980102-0049 rdf:type :Student ;
     :studentId "19980102-0049"^^xsd:string ;
     :studentName "Student 50"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10014 .
 
 :student19970918-0050 rdf:type :Student ;
     :studentId "19970918-0050"^^xsd:string ;
     :studentName "Student 51"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10061 .
 
 :student19981214-0051 rdf:type :Student ;
     :studentId "19981214-0051"^^xsd:string ;
     :studentName "Student 52"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10072 .
 
 :student19970721-0052 rdf:type :Student ;
     :studentId "19970721-0052"^^xsd:string ;
     :studentName "Student 53"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19951006-0053 rdf:type :Student ;
     :studentId "19951006-0053"^^xsd:string ;
     :studentName "Student 54"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10071 .
 
 :student19990720-0054 rdf:type :Student ;
     :studentId "19990720-0054"^^xsd:string ;
     :studentName "Student 55"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10033 .
 
 :student19971008-0055 rdf:type :Student ;
     :studentId "19971008-0055"^^xsd:string ;
     :studentName "Student 56"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10032 .
 
 :student19980524-0056 rdf:type :Student ;
     :studentId "19980524-0056"^^xsd:string ;
     :studentName "Student 57"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10072 .
 
 :student19961122-0057 rdf:type :Student ;
     :studentId "19961122-0057"^^xsd:string ;
     :studentName "Student 58"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10013 .
 
 :student19950522-0058 rdf:type :Student ;
     :studentId "19950522-0058"^^xsd:string ;
     :studentName "Student 59"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10031 .
 
 :student19970711-0059 rdf:type :Student ;
     :studentId "19970711-0059"^^xsd:string ;
     :studentName "Student 60"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10034 .
 
 :student19950829-0060 rdf:type :Student ;
     :studentId "19950829-0060"^^xsd:string ;
     :studentName "Student 61"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10021 .
 
 :student19980221-0061 rdf:type :Student ;
     :studentId "19980221-0061"^^xsd:string ;
     :studentName "Student 62"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10054 .
 
 :student19960928-0062 rdf:type :Student ;
     :studentId "19960928-0062"^^xsd:string ;
     :studentName "Student 63"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10033 .
 
 :student19950319-0063 rdf:type :Student ;
     :studentId "19950319-0063"^^xsd:string ;
     :studentName "Student 64"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10053 .
 
 :student19970309-0064 rdf:type :Student ;
     :studentId "19970309-0064"^^xsd:string ;
     :studentName "Student 65"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10001 .
 
 :student19960315-0065 rdf:type :Student ;
     :studentId "19960315-0065"^^xsd:string ;
     :studentName "Student 66"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10073 .
 
 :student19980425-0066 rdf:type :Student ;
     :studentId "19980425-0066"^^xsd:string ;
     :studentName "Student 67"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10054 .
 
 :student19960924-0067 rdf:type :Student ;
     :studentId "19960924-0067"^^xsd:string ;
     :studentName "Student 68"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10021 .
 
 :student19951121-0068 rdf:type :Student ;
     :studentId "19951121-0068"^^xsd:string ;
     :studentName "Student 69"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10014 .
 
 :student19980719-0069 rdf:type :Student ;
     :studentId "19980719-0069"^^xsd:string ;
     :studentName "Student 70"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10061 .
 
 :student19950124-0070 rdf:type :Student ;
     :studentId "19950124-0070"^^xsd:string ;
     :studentName "Student 71"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10054 .
 
 :student19990301-0071 rdf:type :Student ;
     :studentId "19990301-0071"^^xsd:string ;
     :studentName "Student 72"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10042 .
 
 :student19990313-0072 rdf:type :Student ;
     :studentId "19990313-0072"^^xsd:string ;
     :studentName "Student 73"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10051 .
 
 :student19990702-0073 rdf:type :Student ;
     :studentId "19990702-0073"^^xsd:string ;
     :studentName "Student 74"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19950309-0074 rdf:type :Student ;
     :studentId "19950309-0074"^^xsd:string ;
     :studentName "Student 75"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10031 .
 
 :student19990711-0075 rdf:type :Student ;
     :studentId "19990711-0075"^^xsd:string ;
     :studentName "Student 76"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10012 .
 
 :student19961023-0076 rdf:type :Student ;
     :studentId "19961023-0076"^^xsd:string ;
     :studentName "Student 77"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10033 .
 
 :student19981204-0077 rdf:type :Student ;
     :studentId "19981204-0077"^^xsd:string ;
     :studentName "Student 78"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10001 .
 
 :student19960414-0078 rdf:type :Student ;
     :studentId "19960414-0078"^^xsd:string ;
     :studentName "Student 79"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10033 .
 
 :student19950404-0079 rdf:type :Student ;
     :studentId "19950404-0079"^^xsd:string ;
     :studentName "Student 80"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10033 .
 
 :student19950321-0080 rdf:type :Student ;
     :studentId "19950321-0080"^^xsd:string ;
     :studentName "Student 81"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10042 .
 
 :student19970428-0081 rdf:type :Student ;
     :studentId "19970428-0081"^^xsd:string ;
     :studentName "Student 82"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10054 .
 
 :student19980418-0082 rdf:type :Student ;
     :studentId "19980418-0082"^^xsd:string ;
     :studentName "Student 83"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10013 .
 
 :student19970820-0083 rdf:type :Student ;
     :studentId "19970820-0083"^^xsd:string ;
     :studentName "Student 84"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19950907-0084 rdf:type :Student ;
     :studentId "19950907-0084"^^xsd:string ;
     :studentName "Student 85"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10021 .
 
 :student19950703-0085 rdf:type :Student ;
     :studentId "19950703-0085"^^xsd:string ;
     :studentName "Student 86"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10061 .
 
 :student19961124-0086 rdf:type :Student ;
     :studentId "19961124-0086"^^xsd:string ;
     :studentName "Student 87"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10032 .
 
 :student19980805-0087 rdf:type :Student ;
     :studentId "19980805-0087"^^xsd:string ;
     :studentName "Student 88"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10071 .
 
 :student19970721-0088 rdf:type :Student ;
     :studentId "19970721-0088"^^xsd:string ;
     :studentName "Student 89"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10061 .
 
 :student19970904-0089 rdf:type :Student ;
     :studentId "19970904-0089"^^xsd:string ;
     :studentName "Student 90"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10011 .
 
 :student19960609-0090 rdf:type :Student ;
     :studentId "19960609-0090"^^xsd:string ;
     :studentName "Student 91"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10014 .
 
 :student19990918-0091 rdf:type :Student ;
     :studentId "19990918-0091"^^xsd:string ;
     :studentName "Student 92"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10073 .
 
 :student19980925-0092 rdf:type :Student ;
     :studentId "19980925-0092"^^xsd:string ;
     :studentName "Student 93"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10074 .
 
 :student19960227-0093 rdf:type :Student ;
     :studentId "19960227-0093"^^xsd:string ;
     :studentName "Student 94"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10071 .
 
 :student19990531-0094 rdf:type :Student ;
     :studentId "19990531-0094"^^xsd:string ;
     :studentName "Student 95"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10054 .
 
 :student19970408-0095 rdf:type :Student ;
     :studentId "19970408-0095"^^xsd:string ;
     :studentName "Student 96"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10011 .
 
 :student19990427-0096 rdf:type :Student ;
     :studentId "19990427-0096"^^xsd:string ;
     :studentName "Student 97"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10033 .
 
 :student19990518-0097 rdf:type :Student ;
     :studentId "19990518-0097"^^xsd:string ;
     :studentName "Student 98"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10074 .
 
 :student19960704-0098 rdf:type :Student ;
     :studentId "19960704-0098"^^xsd:string ;
     :studentName "Student 99"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10001 .
 
 :student19960621-0099 rdf:type :Student ;
     :studentId "19960621-0099"^^xsd:string ;
     :studentName "Student 100"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10014 .
 
 :student19980203-0100 rdf:type :Student ;
     :studentId "19980203-0100"^^xsd:string ;
     :studentName "Student 101"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10074 .
 
 :student19960101-0101 rdf:type :Student ;
     :studentId "19960101-0101"^^xsd:string ;
     :studentName "Student 102"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10034 .
 
 :student19950821-0102 rdf:type :Student ;
     :studentId "19950821-0102"^^xsd:string ;
     :studentName "Student 103"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10011 .
 
 :student19970806-0103 rdf:type :Student ;
     :studentId "19970806-0103"^^xsd:string ;
     :studentName "Student 104"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10032 .
 
 :student19960123-0104 rdf:type :Student ;
     :studentId "19960123-0104"^^xsd:string ;
     :studentName "Student 105"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10061 .
 
 :student19970630-0105 rdf:type :Student ;
     :studentId "19970630-0105"^^xsd:string ;
     :studentName "Student 106"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19950316-0106 rdf:type :Student ;
     :studentId "19950316-0106"^^xsd:string ;
     :studentName "Student 107"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10042 .
 
 :student19981226-0107 rdf:type :Student ;
     :studentId "19981226-0107"^^xsd:string ;
     :studentName "Student 108"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10032 .
 
 :student19960818-0108 rdf:type :Student ;
     :studentId "19960818-0108"^^xsd:string ;
     :studentName "Student 109"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10054 .
 
 :student19970805-0109 rdf:type :Student ;
     :studentId "19970805-0109"^^xsd:string ;
     :studentName "Student 110"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10042 .
 
 :student19960118-0110 rdf:type :Student ;
     :studentId "19960118-0110"^^xsd:string ;
     :studentName "Student 111"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10072 .
 
 :student19950511-0111 rdf:type :Student ;
     :studentId "19950511-0111"^^xsd:string ;
     :studentName "Student 112"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10021 .
 
 :student19990530-0112 rdf:type :Student ;
     :studentId "19990530-0112"^^xsd:string ;
     :studentName "Student 113"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10073 .
 
 :student19961117-0113 rdf:type :Student ;
     :studentId "19961117-0113"^^xsd:string ;
     :studentName "Student 114"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10001 .
 
 :student19981221-0114 rdf:type :Student ;
     :studentId "19981221-0114"^^xsd:string ;
     :studentName "Student 115"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10013 .
 
 :student19950924-0115 rdf:type :Student ;
     :studentId "19950924-0115"^^xsd:string ;
     :studentName "Student 116"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10053 .
 
 :student19970112-0116 rdf:type :Student ;
     :studentId "19970112-0116"^^xsd:string ;
     :studentName "Student 117"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10072 .
 
 :student19960911-0117 rdf:type :Student ;
     :studentId "19960911-0117"^^xsd:string ;
     :studentName "Student 118"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10012 .
 
 :student19970925-0118 rdf:type :Student ;
     :studentId "19970925-0118"^^xsd:string ;
     :studentName "Student 119"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10013 .
 
 :student19961108-0119 rdf:type :Student ;
     :studentId "19961108-0119"^^xsd:string ;
     :studentName "Student 120"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19960829-0120 rdf:type :Student ;
     :studentId "19960829-0120"^^xsd:string ;
     :studentName "Student 121"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10054 .
 
 :student19990317-0121 rdf:type :Student ;
     :studentId "19990317-0121"^^xsd:string ;
     :studentName "Student 122"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10033 .
 
 :student19990521-0122 rdf:type :Student ;
     :studentId "19990521-0122"^^xsd:string ;
     :studentName "Student 123"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10073 .
 
 :student19950709-0123 rdf:type :Student ;
     :studentId "19950709-0123"^^xsd:string ;
     :studentName "Student 124"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10013 .
 
 :student19950214-0124 rdf:type :Student ;
     :studentId "19950214-0124"^^xsd:string ;
     :studentName "Student 125"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10074 .
 
 :student19950817-0125 rdf:type :Student ;
     :studentId "19950817-0125"^^xsd:string ;
     :studentName "Student 126"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10054 .
 
 :student19990405-0126 rdf:type :Student ;
     :studentId "19990405-0126"^^xsd:string ;
     :studentName "Student 127"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10054 .
 
 :student19970422-0127 rdf:type :Student ;
     :studentId "19970422-0127"^^xsd:string ;
     :studentName "Student 128"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10014 .
 
 :student19950225-0128 rdf:type :Student ;
     :studentId "19950225-0128"^^xsd:string ;
     :studentName "Student 129"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10033 .
 
 :student19980410-0129 rdf:type :Student ;
     :studentId "19980410-0129"^^xsd:string ;
     :studentName "Student 130"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10054 .
 
 :student19980617-0130 rdf:type :Student ;
     :studentId "19980617-0130"^^xsd:string ;
     :studentName "Student 131"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10033 .
 
 :student19970117-0131 rdf:type :Student ;
     :studentId "19970117-0131"^^xsd:string ;
     :studentName "Student 132"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10011 .
 
 :student19950225-0132 rdf:type :Student ;
     :studentId "19950225-0132"^^xsd:string ;
     :studentName "Student 133"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10012 .
 
 :student19961005-0133 rdf:type :Student ;
     :studentId "19961005-0133"^^xsd:string ;
     :studentName "Student 134"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10031 .
 
 :student19960809-0134 rdf:type :Student ;
     :studentId "19960809-0134"^^xsd:string ;
     :studentName "Student 135"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10001 .
 
 :student19990713-0135 rdf:type :Student ;
     :studentId "19990713-0135"^^xsd:string ;
     :studentName "Student 136"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10012 .
 
 :student19990626-0136 rdf:type :Student ;
     :studentId "19990626-0136"^^xsd:string ;
     :studentName "Student 137"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10074 .
 
 :student19980203-0137 rdf:type :Student ;
     :studentId "19980203-0137"^^xsd:string ;
     :studentName "Student 138"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10014 .
 
 :student19980720-0138 rdf:type :Student ;
     :studentId "19980720-0138"^^xsd:string ;
     :studentName "Student 139"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10042 .
 
 :student19951130-0139 rdf:type :Student ;
     :studentId "19951130-0139"^^xsd:string ;
     :studentName "Student 140"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10073 .
 
 :student19950317-0140 rdf:type :Student ;
     :studentId "19950317-0140"^^xsd:string ;
     :studentName "Student 141"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10013 .
 
 :student19980421-0141 rdf:type :Student ;
     :studentId "19980421-0141"^^xsd:string ;
     :studentName "Student 142"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10032 .
 
 :student19960406-0142 rdf:type :Student ;
     :studentId "19960406-0142"^^xsd:string ;
     :studentName "Student 143"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10072 .
 
 :student19950604-0143 rdf:type :Student ;
     :studentId "19950604-0143"^^xsd:string ;
     :studentName "Student 144"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10072 .
 
 :student19971113-0144 rdf:type :Student ;
     :studentId "19971113-0144"^^xsd:string ;
     :studentName "Student 145"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10071 .
 
 :student19980928-0145 rdf:type :Student ;
     :studentId "19980928-0145"^^xsd:string ;
     :studentName "Student 146"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10071 .
 
 :student19970619-0146 rdf:type :Student ;
     :studentId "19970619-0146"^^xsd:string ;
     :studentName "Student 147"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10072 .
 
 :student19980920-0147 rdf:type :Student ;
     :studentId "19980920-0147"^^xsd:string ;
     :studentName "Student 148"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10013 .
 
 :student19950818-0148 rdf:type :Student ;
     :studentId "19950818-0148"^^xsd:string ;
     :studentName "Student 149"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10061 .
 
 :student19980804-0149 rdf:type :Student ;
     :studentId "19980804-0149"^^xsd:string ;
     :studentName "Student 150"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19950331-0150 rdf:type :Student ;
     :studentId "19950331-0150"^^xsd:string ;
     :studentName "Student 151"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10073 .
 
 :student19960607-0151 rdf:type :Student ;
     :studentId "19960607-0151"^^xsd:string ;
     :studentName "Student 152"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10052 .
 
 :student19961024-0152 rdf:type :Student ;
     :studentId "19961024-0152"^^xsd:string ;
     :studentName "Student 153"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10072 .
 
 :student19961222-0153 rdf:type :Student ;
     :studentId "19961222-0153"^^xsd:string ;
     :studentName "Student 154"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10074 .
 
 :student19990226-0154 rdf:type :Student ;
     :studentId "19990226-0154"^^xsd:string ;
     :studentName "Student 155"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10052 .
 
 :student19980329-0155 rdf:type :Student ;
     :studentId "19980329-0155"^^xsd:string ;
     :studentName "Student 156"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10054 .
 
 :student19990116-0156 rdf:type :Student ;
     :studentId "19990116-0156"^^xsd:string ;
     :studentName "Student 157"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10074 .
 
 :student19980709-0157 rdf:type :Student ;
     :studentId "19980709-0157"^^xsd:string ;
     :studentName "Student 158"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10021 .
 
 :student19970510-0158 rdf:type :Student ;
     :studentId "19970510-0158"^^xsd:string ;
     :studentName "Student 159"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10033 .
 
 :student19951130-0159 rdf:type :Student ;
     :studentId "19951130-0159"^^xsd:string ;
     :studentName "Student 160"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10034 .
 
 :student19960901-0160 rdf:type :Student ;
     :studentId "19960901-0160"^^xsd:string ;
     :studentName "Student 161"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10012 .
 
 :student19960912-0161 rdf:type :Student ;
     :studentId "19960912-0161"^^xsd:string ;
     :studentName "Student 162"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10014 .
 
 :student19971106-0162 rdf:type :Student ;
     :studentId "19971106-0162"^^xsd:string ;
     :studentName "Student 163"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10042 .
 
 :student19990518-0163 rdf:type :Student ;
     :studentId "19990518-0163"^^xsd:string ;
     :studentName "Student 164"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10061 .
 
 :student19960523-0164 rdf:type :Student ;
     :studentId "19960523-0164"^^xsd:string ;
     :studentName "Student 165"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10034 .
 
 :student19980712-0165 rdf:type :Student ;
     :studentId "19980712-0165"^^xsd:string ;
     :studentName "Student 166"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10012 .
 
 :student19970524-0166 rdf:type :Student ;
     :studentId "19970524-0166"^^xsd:string ;
     :studentName "Student 167"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10032 .
 
 :student19990307-0167 rdf:type :Student ;
     :studentId "19990307-0167"^^xsd:string ;
     :studentName "Student 168"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10032 .
 
 :student19960221-0168 rdf:type :Student ;
     :studentId "19960221-0168"^^xsd:string ;
     :studentName "Student 169"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10054 .
 
 :student19970404-0169 rdf:type :Student ;
     :studentId "19970404-0169"^^xsd:string ;
     :studentName "Student 170"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10014 .
 
 :student19970318-0170 rdf:type :Student ;
     :studentId "19970318-0170"^^xsd:string ;
     :studentName "Student 171"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10031 .
 
 :student19950925-0171 rdf:type :Student ;
     :studentId "19950925-0171"^^xsd:string ;
     :studentName "Student 172"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10052 .
 
 :student19950427-0172 rdf:type :Student ;
     :studentId "19950427-0172"^^xsd:string ;
     :studentName "Student 173"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10073 .
 
 :student19970118-0173 rdf:type :Student ;
     :studentId "19970118-0173"^^xsd:string ;
     :studentName "Student 174"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10014 .
 
 :student19990708-0174 rdf:type :Student ;
     :studentId "19990708-0174"^^xsd:string ;
     :studentName "Student 175"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10072 .
 
 :student19960216-0175 rdf:type :Student ;
     :studentId "19960216-0175"^^xsd:string ;
     :studentName "Student 176"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10031 .
 
 :student19950913-0176 rdf:type :Student ;
     :studentId "19950913-0176"^^xsd:string ;
     :studentName "Student 177"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10052 .
 
 :student19970822-0177 rdf:type :Student ;
     :studentId "19970822-0177"^^xsd:string ;
     :studentName "Student 178"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10011 .
 
 :student19960224-0178 rdf:type :Student ;
     :studentId "19960224-0178"^^xsd:string ;
     :studentName "Student 179"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10074 .
 
 :student19950831-0179 rdf:type :Student ;
     :studentId "19950831-0179"^^xsd:string ;
     :studentName "Student 180"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10053 .
 
 :student19961009-0180 rdf:type :Student ;
     :studentId "19961009-0180"^^xsd:string ;
     :studentName "Student 181"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10071 .
 
 :student19950912-0181 rdf:type :Student ;
     :studentId "19950912-0181"^^xsd:string ;
     :studentName "Student 182"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10073 .
 
 :student19980926-0182 rdf:type :Student ;
     :studentId "19980926-0182"^^xsd:string ;
     :studentName "Student 183"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19950707-0183 rdf:type :Student ;
     :studentId "19950707-0183"^^xsd:string ;
     :studentName "Student 184"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10042 .
 
 :student19980628-0184 rdf:type :Student ;
     :studentId "19980628-0184"^^xsd:string ;
     :studentName "Student 185"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19950212-0185 rdf:type :Student ;
     :studentId "19950212-0185"^^xsd:string ;
     :studentName "Student 186"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10042 .
 
 :student19970907-0186 rdf:type :Student ;
     :studentId "19970907-0186"^^xsd:string ;
     :studentName "Student 187"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10071 .
 
 :student19980219-0187 rdf:type :Student ;
     :studentId "19980219-0187"^^xsd:string ;
     :studentName "Student 188"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10014 .
 
 :student19970601-0188 rdf:type :Student ;
     :studentId "19970601-0188"^^xsd:string ;
     :studentName "Student 189"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19980928-0189 rdf:type :Student ;
     :studentId "19980928-0189"^^xsd:string ;
     :studentName "Student 190"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10013 .
 
 :student19980617-0190 rdf:type :Student ;
     :studentId "19980617-0190"^^xsd:string ;
     :studentName "Student 191"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10072 .
 
 :student19990709-0191 rdf:type :Student ;
     :studentId "19990709-0191"^^xsd:string ;
     :studentName "Student 192"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19990624-0192 rdf:type :Student ;
     :studentId "19990624-0192"^^xsd:string ;
     :studentName "Student 193"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10052 .
 
 :student19951001-0193 rdf:type :Student ;
     :studentId "19951001-0193"^^xsd:string ;
     :studentName "Student 194"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10013 .
 
 :student19980906-0194 rdf:type :Student ;
     :studentId "19980906-0194"^^xsd:string ;
     :studentName "Student 195"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19980824-0195 rdf:type :Student ;
     :studentId "19980824-0195"^^xsd:string ;
     :studentName "Student 196"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10011 .
 
 :student19970416-0196 rdf:type :Student ;
     :studentId "19970416-0196"^^xsd:string ;
     :studentName "Student 197"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10033 .
 
 :student19970121-0197 rdf:type :Student ;
     :studentId "19970121-0197"^^xsd:string ;
     :studentName "Student 198"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10021 .
 
 :student19981018-0198 rdf:type :Student ;
     :studentId "19981018-0198"^^xsd:string ;
     :studentName "Student 199"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10042 .
 
 :student19990323-0199 rdf:type :Student ;
     :studentId "19990323-0199"^^xsd:string ;
     :studentName "Student 200"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10012 .
 
 :student19891205-0000 rdf:type :Student ;
     :studentId "19891205-0000"^^xsd:string ;
     :studentName "Student 1"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2010"^^xsd:integer ;
     :enrolledIn :programme10012 .
 
 :student19880117-0001 rdf:type :Student ;
     :studentId "19880117-0001"^^xsd:string ;
     :studentName "Student 2"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2010"^^xsd:integer ;
     :enrolledIn :programme10021 .
 
 :student19860309-0002 rdf:type :Student ;
     :studentId "19860309-0002"^^xsd:string ;
     :studentName "Student 3"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2014"^^xsd:integer ;
     :enrolledIn :programme10021 .
 
 :student19850305-0003 rdf:type :Student ;
     :studentId "19850305-0003"^^xsd:string ;
     :studentName "Student 4"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2015"^^xsd:integer ;
     :enrolledIn :programme10032 .
 
 :student19860211-0004 rdf:type :Student ;
     :studentId "19860211-0004"^^xsd:string ;
     :studentName "Student 5"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2012"^^xsd:integer ;
     :enrolledIn :programme10042 .
 
 :student19880122-0005 rdf:type :Student ;
     :studentId "19880122-0005"^^xsd:string ;
     :studentName "Student 6"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2014"^^xsd:integer ;
     :enrolledIn :programme10053 .
 
 :student19850603-0006 rdf:type :Student ;
     :studentId "19850603-0006"^^xsd:string ;
     :studentName "Student 7"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2013"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19860222-0007 rdf:type :Student ;
     :studentId "19860222-0007"^^xsd:string ;
     :studentName "Student 8"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2014"^^xsd:integer ;
     :enrolledIn :programme10054 .
 
 :student19860330-0008 rdf:type :Student ;
     :studentId "19860330-0008"^^xsd:string ;
     :studentName "Student 9"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2010"^^xsd:integer ;
     :enrolledIn :programme10012 .
 
 :student19861018-0009 rdf:type :Student ;
     :studentId "19861018-0009"^^xsd:string ;
     :studentName "Student 10"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2012"^^xsd:integer ;
     :enrolledIn :programme10074 .
 
 :student19860829-0010 rdf:type :Student ;
     :studentId "19860829-0010"^^xsd:string ;
     :studentName "Student 11"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2013"^^xsd:integer ;
     :enrolledIn :programme10074 .
 
 :student19850527-0011 rdf:type :Student ;
     :studentId "19850527-0011"^^xsd:string ;
     :studentName "Student 12"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2012"^^xsd:integer ;
     :enrolledIn :programme10013 .
 
 :student19891217-0012 rdf:type :Student ;
     :studentId "19891217-0012"^^xsd:string ;
     :studentName "Student 13"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2014"^^xsd:integer ;
     :enrolledIn :programme10051 .
 
 :student19870613-0013 rdf:type :Student ;
     :studentId "19870613-0013"^^xsd:string ;
     :studentName "Student 14"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2010"^^xsd:integer ;
     :enrolledIn :programme10051 .
 
 :student19861017-0014 rdf:type :Student ;
     :studentId "19861017-0014"^^xsd:string ;
     :studentName "Student 15"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2012"^^xsd:integer ;
     :enrolledIn :programme10011 .
 
 :student19860125-0015 rdf:type :Student ;
     :studentId "19860125-0015"^^xsd:string ;
     :studentName "Student 16"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2011"^^xsd:integer ;
     :enrolledIn :programme10042 .
 
 :student19871102-0016 rdf:type :Student ;
     :studentId "19871102-0016"^^xsd:string ;
     :studentName "Student 17"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2011"^^xsd:integer ;
     :enrolledIn :programme10014 .
 
 :student19870714-0017 rdf:type :Student ;
     :studentId "19870714-0017"^^xsd:string ;
     :studentName "Student 18"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2012"^^xsd:integer ;
     :enrolledIn :programme10013 .
 
 :student19850426-0018 rdf:type :Student ;
     :studentId "19850426-0018"^^xsd:string ;
     :studentName "Student 19"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2012"^^xsd:integer ;
     :enrolledIn :programme10071 .
 
 :student19870816-0019 rdf:type :Student ;
     :studentId "19870816-0019"^^xsd:string ;
     :studentName "Student 20"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2011"^^xsd:integer ;
     :enrolledIn :programme10071 .
 
 :student19880404-0020 rdf:type :Student ;
     :studentId "19880404-0020"^^xsd:string ;
     :studentName "Student 21"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2014"^^xsd:integer ;
     :enrolledIn :programme10074 .
 
 :student19860729-0021 rdf:type :Student ;
     :studentId "19860729-0021"^^xsd:string ;
     :studentName "Student 22"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2010"^^xsd:integer ;
     :enrolledIn :programme10011 .
 
 :student19850205-0022 rdf:type :Student ;
     :studentId "19850205-0022"^^xsd:string ;
     :studentName "Student 23"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2011"^^xsd:integer ;
     :enrolledIn :programme10053 .
 
 :student19891130-0023 rdf:type :Student ;
     :studentId "19891130-0023"^^xsd:string ;
     :studentName "Student 24"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2014"^^xsd:integer ;
     :enrolledIn :programme10072 .
 
 :student19860208-0024 rdf:type :Student ;
     :studentId "19860208-0024"^^xsd:string ;
     :studentName "Student 25"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2011"^^xsd:integer ;
     :enrolledIn :programme10073 .
 
 :student19851213-0025 rdf:type :Student ;
     :studentId "19851213-0025"^^xsd:string ;
     :studentName "Student 26"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2014"^^xsd:integer ;
     :enrolledIn :programme10071 .
 
 :student19870624-0026 rdf:type :Student ;
     :studentId "19870624-0026"^^xsd:string ;
     :studentName "Student 27"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2010"^^xsd:integer ;
     :enrolledIn :programme10072 .
 
 :student19870406-0027 rdf:type :Student ;
     :studentId "19870406-0027"^^xsd:string ;
     :studentName "Student 28"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2011"^^xsd:integer ;
     :enrolledIn :programme10052 .
 
 :student19870512-0028 rdf:type :Student ;
     :studentId "19870512-0028"^^xsd:string ;
     :studentName "Student 29"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2013"^^xsd:integer ;
     :enrolledIn :programme10052 .
 
 :student19890225-0029 rdf:type :Student ;
     :studentId "19890225-0029"^^xsd:string ;
     :studentName "Student 30"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2010"^^xsd:integer ;
     :enrolledIn :programme10021 .
 
 :student19880205-0030 rdf:type :Student ;
     :studentId "19880205-0030"^^xsd:string ;
     :studentName "Student 31"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2011"^^xsd:integer ;
     :enrolledIn :programme10042 .
 
 :student19870215-0031 rdf:type :Student ;
     :studentId "19870215-0031"^^xsd:string ;
     :studentName "Student 32"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2015"^^xsd:integer ;
     :enrolledIn :programme10073 .
 
 :student19890513-0032 rdf:type :Student ;
     :studentId "19890513-0032"^^xsd:string ;
     :studentName "Student 33"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2011"^^xsd:integer ;
     :enrolledIn :programme10021 .
 
 :student19881204-0033 rdf:type :Student ;
     :studentId "19881204-0033"^^xsd:string ;
     :studentName "Student 34"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2014"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19890416-0034 rdf:type :Student ;
     :studentId "19890416-0034"^^xsd:string ;
     :studentName "Student 35"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2015"^^xsd:integer ;
     :enrolledIn :programme10051 .
 
 :student19891011-0035 rdf:type :Student ;
     :studentId "19891011-0035"^^xsd:string ;
     :studentName "Student 36"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2013"^^xsd:integer ;
     :enrolledIn :programme10052 .
 
 :student19890927-0036 rdf:type :Student ;
     :studentId "19890927-0036"^^xsd:string ;
     :studentName "Student 37"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2014"^^xsd:integer ;
     :enrolledIn :programme10051 .
 
 :student19870422-0037 rdf:type :Student ;
     :studentId "19870422-0037"^^xsd:string ;
     :studentName "Student 38"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2013"^^xsd:integer ;
     :enrolledIn :programme10032 .
 
 :student19871023-0038 rdf:type :Student ;
     :studentId "19871023-0038"^^xsd:string ;
     :studentName "Student 39"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2010"^^xsd:integer ;
     :enrolledIn :programme10034 .
 
 :student19881020-0039 rdf:type :Student ;
     :studentId "19881020-0039"^^xsd:string ;
     :studentName "Student 40"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2015"^^xsd:integer ;
     :enrolledIn :programme10012 .
 
 :student19881216-0040 rdf:type :Student ;
     :studentId "19881216-0040"^^xsd:string ;
     :studentName "Student 41"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2015"^^xsd:integer ;
     :enrolledIn :programme10014 .
 
 :student19870720-0041 rdf:type :Student ;
     :studentId "19870720-0041"^^xsd:string ;
     :studentName "Student 42"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2015"^^xsd:integer ;
     :enrolledIn :programme10042 .
 
 :student19870421-0042 rdf:type :Student ;
     :studentId "19870421-0042"^^xsd:string ;
     :studentName "Student 43"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2011"^^xsd:integer ;
     :enrolledIn :programme10033 .
 
 :student19880818-0043 rdf:type :Student ;
     :studentId "19880818-0043"^^xsd:string ;
     :studentName "Student 44"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2012"^^xsd:integer ;
     :enrolledIn :programme10073 .
 
 :student19870414-0044 rdf:type :Student ;
     :studentId "19870414-0044"^^xsd:string ;
     :studentName "Student 45"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2010"^^xsd:integer ;
     :enrolledIn :programme10011 .
 
 :student19880204-0045 rdf:type :Student ;
     :studentId "19880204-0045"^^xsd:string ;
     :studentName "Student 46"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2014"^^xsd:integer ;
     :enrolledIn :programme10011 .
 
 :student19880807-0046 rdf:type :Student ;
     :studentId "19880807-0046"^^xsd:string ;
     :studentName "Student 47"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2012"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19890219-0047 rdf:type :Student ;
     :studentId "19890219-0047"^^xsd:string ;
     :studentName "Student 48"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2013"^^xsd:integer ;
     :enrolledIn :programme10034 .
 
 :student19870412-0048 rdf:type :Student ;
     :studentId "19870412-0048"^^xsd:string ;
     :studentName "Student 49"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2013"^^xsd:integer ;
     :enrolledIn :programme10012 .
 
 :student19860119-0049 rdf:type :Student ;
     :studentId "19860119-0049"^^xsd:string ;
     :studentName "Student 50"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2014"^^xsd:integer ;
     :enrolledIn :programme10001 .
 
 :student19880522-0050 rdf:type :Student ;
     :studentId "19880522-0050"^^xsd:string ;
     :studentName "Student 51"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2015"^^xsd:integer ;
     :enrolledIn :programme10012 .
 
 :student19851109-0051 rdf:type :Student ;
     :studentId "19851109-0051"^^xsd:string ;
     :studentName "Student 52"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2013"^^xsd:integer ;
     :enrolledIn :programme10034 .
 
 :student19890611-0052 rdf:type :Student ;
     :studentId "19890611-0052"^^xsd:string ;
     :studentName "Student 53"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2014"^^xsd:integer ;
     :enrolledIn :programme10031 .
 
 :student19860118-0053 rdf:type :Student ;
     :studentId "19860118-0053"^^xsd:string ;
     :studentName "Student 54"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2010"^^xsd:integer ;
     :enrolledIn :programme10073 .
 
 :student19850504-0054 rdf:type :Student ;
     :studentId "19850504-0054"^^xsd:string ;
     :studentName "Student 55"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2011"^^xsd:integer ;
     :enrolledIn :programme10053 .
 
 :student19890302-0055 rdf:type :Student ;
     :studentId "19890302-0055"^^xsd:string ;
     :studentName "Student 56"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2010"^^xsd:integer ;
     :enrolledIn :programme10032 .
 
 :student19870427-0056 rdf:type :Student ;
     :studentId "19870427-0056"^^xsd:string ;
     :studentName "Student 57"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2013"^^xsd:integer ;
     :enrolledIn :programme10073 .
 
 :student19861117-0057 rdf:type :Student ;
     :studentId "19861117-0057"^^xsd:string ;
     :studentName "Student 58"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2014"^^xsd:integer ;
     :enrolledIn :programme10073 .
 
 :student19891109-0058 rdf:type :Student ;
     :studentId "19891109-0058"^^xsd:string ;
     :studentName "Student 59"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2013"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19890705-0059 rdf:type :Student ;
     :studentId "19890705-0059"^^xsd:string ;
     :studentName "Student 60"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2015"^^xsd:integer ;
     :enrolledIn :programme10053 .
 
 :student19891221-0060 rdf:type :Student ;
     :studentId "19891221-0060"^^xsd:string ;
     :studentName "Student 61"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2010"^^xsd:integer ;
     :enrolledIn :programme10033 .
 
 :student19860128-0061 rdf:type :Student ;
     :studentId "19860128-0061"^^xsd:string ;
     :studentName "Student 62"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2014"^^xsd:integer ;
     :enrolledIn :programme10033 .
 
 :student19850704-0062 rdf:type :Student ;
     :studentId "19850704-0062"^^xsd:string ;
     :studentName "Student 63"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2014"^^xsd:integer ;
     :enrolledIn :programme10021 .
 
 :student19860412-0063 rdf:type :Student ;
     :studentId "19860412-0063"^^xsd:string ;
     :studentName "Student 64"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2012"^^xsd:integer ;
     :enrolledIn :programme10031 .
 
 :student19870918-0064 rdf:type :Student ;
     :studentId "19870918-0064"^^xsd:string ;
     :studentName "Student 65"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2012"^^xsd:integer ;
     :enrolledIn :programme10042 .
 
 :student19880307-0065 rdf:type :Student ;
     :studentId "19880307-0065"^^xsd:string ;
     :studentName "Student 66"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2015"^^xsd:integer ;
     :enrolledIn :programme10072 .
 
 :student19861216-0066 rdf:type :Student ;
     :studentId "19861216-0066"^^xsd:string ;
     :studentName "Student 67"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2015"^^xsd:integer ;
     :enrolledIn :programme10031 .
 
 :student19850124-0067 rdf:type :Student ;
     :studentId "19850124-0067"^^xsd:string ;
     :studentName "Student 68"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2015"^^xsd:integer ;
     :enrolledIn :programme10052 .
 
 :student19880118-0068 rdf:type :Student ;
     :studentId "19880118-0068"^^xsd:string ;
     :studentName "Student 69"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2014"^^xsd:integer ;
     :enrolledIn :programme10051 .
 
 :student19870727-0069 rdf:type :Student ;
     :studentId "19870727-0069"^^xsd:string ;
     :studentName "Student 70"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2013"^^xsd:integer ;
     :enrolledIn :programme10014 .
 
 :student19851126-0070 rdf:type :Student ;
     :studentId "19851126-0070"^^xsd:string ;
     :studentName "Student 71"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2015"^^xsd:integer ;
     :enrolledIn :programme10032 .
 
 :student19861011-0071 rdf:type :Student ;
     :studentId "19861011-0071"^^xsd:string ;
     :studentName "Student 72"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2010"^^xsd:integer ;
     :enrolledIn :programme10011 .
 
 :student19850522-0072 rdf:type :Student ;
     :studentId "19850522-0072"^^xsd:string ;
     :studentName "Student 73"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2014"^^xsd:integer ;
     :enrolledIn :programme10001 .
 
 :student19871111-0073 rdf:type :Student ;
     :studentId "19871111-0073"^^xsd:string ;
     :studentName "Student 74"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2010"^^xsd:integer ;
     :enrolledIn :programme10012 .
 
 :student19861115-0074 rdf:type :Student ;
     :studentId "19861115-0074"^^xsd:string ;
     :studentName "Student 75"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2013"^^xsd:integer ;
     :enrolledIn :programme10073 .
 
 :student19890303-0075 rdf:type :Student ;
     :studentId "19890303-0075"^^xsd:string ;
     :studentName "Student 76"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2010"^^xsd:integer ;
     :enrolledIn :programme10034 .
 
 :student19890622-0076 rdf:type :Student ;
     :studentId "19890622-0076"^^xsd:string ;
     :studentName "Student 77"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2014"^^xsd:integer ;
     :enrolledIn :programme10021 .
 
 :student19850206-0077 rdf:type :Student ;
     :studentId "19850206-0077"^^xsd:string ;
     :studentName "Student 78"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2014"^^xsd:integer ;
     :enrolledIn :programme10061 .
 
 :student19860516-0078 rdf:type :Student ;
     :studentId "19860516-0078"^^xsd:string ;
     :studentName "Student 79"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2012"^^xsd:integer ;
     :enrolledIn :programme10071 .
 
 :student19891104-0079 rdf:type :Student ;
     :studentId "19891104-0079"^^xsd:string ;
     :studentName "Student 80"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2012"^^xsd:integer ;
     :enrolledIn :programme10014 .
 
 :student19870128-0080 rdf:type :Student ;
     :studentId "19870128-0080"^^xsd:string ;
     :studentName "Student 81"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2012"^^xsd:integer ;
     :enrolledIn :programme10021 .
 
 :student19850709-0081 rdf:type :Student ;
     :studentId "19850709-0081"^^xsd:string ;
     :studentName "Student 82"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2011"^^xsd:integer ;
     :enrolledIn :programme10074 .
 
 :student19870507-0082 rdf:type :Student ;
     :studentId "19870507-0082"^^xsd:string ;
     :studentName "Student 83"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2013"^^xsd:integer ;
     :enrolledIn :programme10012 .
 
 :student19870308-0083 rdf:type :Student ;
     :studentId "19870308-0083"^^xsd:string ;
     :studentName "Student 84"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2014"^^xsd:integer ;
     :enrolledIn :programme10032 .
 
 :student19851112-0084 rdf:type :Student ;
     :studentId "19851112-0084"^^xsd:string ;
     :studentName "Student 85"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2015"^^xsd:integer ;
     :enrolledIn :programme10053 .
 
 :student19861015-0085 rdf:type :Student ;
     :studentId "19861015-0085"^^xsd:string ;
     :studentName "Student 86"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2013"^^xsd:integer ;
     :enrolledIn :programme10073 .
 
 :student19870304-0086 rdf:type :Student ;
     :studentId "19870304-0086"^^xsd:string ;
     :studentName "Student 87"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2012"^^xsd:integer ;
     :enrolledIn :programme10071 .
 
 :student19870901-0087 rdf:type :Student ;
     :studentId "19870901-0087"^^xsd:string ;
     :studentName "Student 88"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2011"^^xsd:integer ;
     :enrolledIn :programme10051 .
 
 :student19870813-0088 rdf:type :Student ;
     :studentId "19870813-0088"^^xsd:string ;
     :studentName "Student 89"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2012"^^xsd:integer ;
     :enrolledIn :programme10042 .
 
 :student19871013-0089 rdf:type :Student ;
     :studentId "19871013-0089"^^xsd:string ;
     :studentName "Student 90"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2013"^^xsd:integer ;
     :enrolledIn :programme10032 .
 
 :student19881120-0090 rdf:type :Student ;
     :studentId "19881120-0090"^^xsd:string ;
     :studentName "Student 91"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2014"^^xsd:integer ;
     :enrolledIn :programme10072 .
 
 :student19870209-0091 rdf:type :Student ;
     :studentId "19870209-0091"^^xsd:string ;
     :studentName "Student 92"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2014"^^xsd:integer ;
     :enrolledIn :programme10071 .
 
 :student19870921-0092 rdf:type :Student ;
     :studentId "19870921-0092"^^xsd:string ;
     :studentName "Student 93"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2012"^^xsd:integer ;
     :enrolledIn :programme10051 .
 
 :student19890202-0093 rdf:type :Student ;
     :studentId "19890202-0093"^^xsd:string ;
     :studentName "Student 94"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2014"^^xsd:integer ;
     :enrolledIn :programme10014 .
 
 :student19890106-0094 rdf:type :Student ;
     :studentId "19890106-0094"^^xsd:string ;
     :studentName "Student 95"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2010"^^xsd:integer ;
     :enrolledIn :programme10011 .
 
 :student19870418-0095 rdf:type :Student ;
     :studentId "19870418-0095"^^xsd:string ;
     :studentName "Student 96"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2011"^^xsd:integer ;
     :enrolledIn :programme10031 .
 
 :student19870304-0096 rdf:type :Student ;
     :studentId "19870304-0096"^^xsd:string ;
     :studentName "Student 97"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2010"^^xsd:integer ;
     :enrolledIn :programme10011 .
 
 :student19860321-0097 rdf:type :Student ;
     :studentId "19860321-0097"^^xsd:string ;
     :studentName "Student 98"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2015"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19871019-0098 rdf:type :Student ;
     :studentId "19871019-0098"^^xsd:string ;
     :studentName "Student 99"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2010"^^xsd:integer ;
     :enrolledIn :programme10071 .
 
 :student19871128-0099 rdf:type :Student ;
     :studentId "19871128-0099"^^xsd:string ;
     :studentName "Student 100"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2012"^^xsd:integer ;
     :enrolledIn :programme10074 .
 
 :student19781125-0031 rdf:type :Student ;
     :studentId "19781125-0031"^^xsd:string ;
     :studentName "TA 31"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2005"^^xsd:integer ;
     :enrolledIn :programme10052 .
 
 :student19750906-0032 rdf:type :Student ;
     :studentId "19750906-0032"^^xsd:string ;
     :studentName "TA 32"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2000"^^xsd:integer ;
     :enrolledIn :programme10052 .
 
 :student19750705-0033 rdf:type :Student ;
     :studentId "19750705-0033"^^xsd:string ;
     :studentName "TA 33"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2005"^^xsd:integer ;
     :enrolledIn :programme10014 .
 
 :student19761024-0034 rdf:type :Student ;
     :studentId "19761024-0034"^^xsd:string ;
     :studentName "TA 34"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2000"^^xsd:integer ;
     :enrolledIn :programme10053 .
 
 :student19780602-0035 rdf:type :Student ;
     :studentId "19780602-0035"^^xsd:string ;
     :studentName "TA 35"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2008"^^xsd:integer ;
     :enrolledIn :programme10053 .
 
 :student19750331-0036 rdf:type :Student ;
     :studentId "19750331-0036"^^xsd:string ;
     :studentName "TA 36"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2004"^^xsd:integer ;
     :enrolledIn :programme10021 .
 
 :student19750220-0037 rdf:type :Student ;
     :studentId "19750220-0037"^^xsd:string ;
     :studentName "TA 37"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2008"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19790702-0038 rdf:type :Student ;
     :studentId "19790702-0038"^^xsd:string ;
     :studentName "TA 38"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2014"^^xsd:integer ;
     :enrolledIn :programme10011 .
 
 :student19751018-0039 rdf:type :Student ;
     :studentId "19751018-0039"^^xsd:string ;
     :studentName "TA 39"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2009"^^xsd:integer ;
     :enrolledIn :programme10061 .
 
 :student19771013-0040 rdf:type :Student ;
     :studentId "19771013-0040"^^xsd:string ;
     :studentName "TA 40"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2005"^^xsd:integer ;
     :enrolledIn :programme10061 .
 
 :student19790708-0041 rdf:type :Student ;
     :studentId "19790708-0041"^^xsd:string ;
     :studentName "TA 41"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2011"^^xsd:integer ;
     :enrolledIn :programme10021 .
 
 :student19770713-0042 rdf:type :Student ;
     :studentId "19770713-0042"^^xsd:string ;
     :studentName "TA 42"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2005"^^xsd:integer ;
     :enrolledIn :programme10014 .
 
 :student19750512-0043 rdf:type :Student ;
     :studentId "19750512-0043"^^xsd:string ;
     :studentName "TA 43"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2010"^^xsd:integer ;
     :enrolledIn :programme10074 .
 
 :student19761020-0044 rdf:type :Student ;
     :studentId "19761020-0044"^^xsd:string ;
     :studentName "TA 44"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2008"^^xsd:integer ;
     :enrolledIn :programme10042 .
 
 :student19790717-0045 rdf:type :Student ;
     :studentId "19790717-0045"^^xsd:string ;
     :studentName "TA 45"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2012"^^xsd:integer ;
     :enrolledIn :programme10053 .
 
 :student19760524-0046 rdf:type :Student ;
     :studentId "19760524-0046"^^xsd:string ;
     :studentName "TA 46"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2005"^^xsd:integer ;
     :enrolledIn :programme10033 .
 
 :student19780815-0047 rdf:type :Student ;
     :studentId "19780815-0047"^^xsd:string ;
     :studentName "TA 47"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2013"^^xsd:integer ;
     :enrolledIn :programme10061 .
 
 :student19790618-0048 rdf:type :Student ;
     :studentId "19790618-0048"^^xsd:string ;
     :studentName "TA 48"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2002"^^xsd:integer ;
     :enrolledIn :programme10053 .
 
 :student19790426-0049 rdf:type :Student ;
     :studentId "19790426-0049"^^xsd:string ;
     :studentName "TA 49"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2013"^^xsd:integer ;
     :enrolledIn :programme10034 .
 
 :student19760108-0050 rdf:type :Student ;
     :studentId "19760108-0050"^^xsd:string ;
     :studentName "TA 50"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2005"^^xsd:integer ;
     :enrolledIn :programme10034 .
 
 :student19750417-0051 rdf:type :Student ;
     :studentId "19750417-0051"^^xsd:string ;
     :studentName "TA 51"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2000"^^xsd:integer ;
     :enrolledIn :programme10053 .
 
 :student19780317-0052 rdf:type :Student ;
     :studentId "19780317-0052"^^xsd:string ;
     :studentName "TA 52"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2013"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19781217-0053 rdf:type :Student ;
     :studentId "19781217-0053"^^xsd:string ;
     :studentName "TA 53"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2000"^^xsd:integer ;
     :enrolledIn :programme10052 .
 
 :student19781130-0054 rdf:type :Student ;
     :studentId "19781130-0054"^^xsd:string ;
     :studentName "TA 54"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2014"^^xsd:integer ;
     :enrolledIn :programme10034 .
 
 :student19761009-0055 rdf:type :Student ;
     :studentId "19761009-0055"^^xsd:string ;
     :studentName "TA 55"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2012"^^xsd:integer ;
     :enrolledIn :programme10011 .
 
 :student19750122-0056 rdf:type :Student ;
     :studentId "19750122-0056"^^xsd:string ;
     :studentName "TA 56"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2012"^^xsd:integer ;
     :enrolledIn :programme10033 .
 
 :student19780424-0057 rdf:type :Student ;
     :studentId "19780424-0057"^^xsd:string ;
     :studentName "TA 57"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2003"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19770224-0058 rdf:type :Student ;
     :studentId "19770224-0058"^^xsd:string ;
     :studentName "TA 58"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2013"^^xsd:integer ;
     :enrolledIn :programme10014 .
 
 :student19750102-0059 rdf:type :Student ;
     :studentId "19750102-0059"^^xsd:string ;
     :studentName "TA 59"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2004"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19750722-0060 rdf:type :Student ;
     :studentId "19750722-0060"^^xsd:string ;
     :studentName "TA 60"^^xsd:string ;
-    :graduated "True"^^xsd:boolean ;
+    :graduated "true"^^xsd:boolean ;
     :studentEnrollmentYear "2000"^^xsd:integer ;
     :enrolledIn :programme10031 .
 
 :student19930508-0061 rdf:type :Student ;
     :studentId "19930508-0061"^^xsd:string ;
     :studentName "TA 61"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10051 .
 
 :student19931118-0062 rdf:type :Student ;
     :studentId "19931118-0062"^^xsd:string ;
     :studentName "TA 62"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10012 .
 
 :student19900520-0063 rdf:type :Student ;
     :studentId "19900520-0063"^^xsd:string ;
     :studentName "TA 63"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10074 .
 
 :student19900124-0064 rdf:type :Student ;
     :studentId "19900124-0064"^^xsd:string ;
     :studentName "TA 64"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10011 .
 
 :student19920122-0065 rdf:type :Student ;
     :studentId "19920122-0065"^^xsd:string ;
     :studentName "TA 65"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10021 .
 
 :student19931203-0066 rdf:type :Student ;
     :studentId "19931203-0066"^^xsd:string ;
     :studentName "TA 66"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10053 .
 
 :student19910421-0067 rdf:type :Student ;
     :studentId "19910421-0067"^^xsd:string ;
     :studentName "TA 67"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10032 .
 
 :student19910514-0068 rdf:type :Student ;
     :studentId "19910514-0068"^^xsd:string ;
     :studentName "TA 68"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10074 .
 
 :student19911116-0069 rdf:type :Student ;
     :studentId "19911116-0069"^^xsd:string ;
     :studentName "TA 69"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10042 .
 
 :student19920828-0070 rdf:type :Student ;
     :studentId "19920828-0070"^^xsd:string ;
     :studentName "TA 70"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10042 .
 
 :student19901029-0071 rdf:type :Student ;
     :studentId "19901029-0071"^^xsd:string ;
     :studentName "TA 71"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10033 .
 
 :student19920206-0072 rdf:type :Student ;
     :studentId "19920206-0072"^^xsd:string ;
     :studentName "TA 72"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10034 .
 
 :student19920602-0073 rdf:type :Student ;
     :studentId "19920602-0073"^^xsd:string ;
     :studentName "TA 73"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19900201-0074 rdf:type :Student ;
     :studentId "19900201-0074"^^xsd:string ;
     :studentName "TA 74"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10011 .
 
 :student19920226-0075 rdf:type :Student ;
     :studentId "19920226-0075"^^xsd:string ;
     :studentName "TA 75"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10021 .
 
 :student19900619-0076 rdf:type :Student ;
     :studentId "19900619-0076"^^xsd:string ;
     :studentName "TA 76"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10053 .
 
 :student19910122-0077 rdf:type :Student ;
     :studentId "19910122-0077"^^xsd:string ;
     :studentName "TA 77"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10052 .
 
 :student19910820-0078 rdf:type :Student ;
     :studentId "19910820-0078"^^xsd:string ;
     :studentName "TA 78"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10021 .
 
 :student19931212-0079 rdf:type :Student ;
     :studentId "19931212-0079"^^xsd:string ;
     :studentName "TA 79"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10042 .
 
 :student19900321-0080 rdf:type :Student ;
     :studentId "19900321-0080"^^xsd:string ;
     :studentName "TA 80"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10013 .
 
 :student19910206-0081 rdf:type :Student ;
     :studentId "19910206-0081"^^xsd:string ;
     :studentName "TA 81"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10014 .
 
 :student19930829-0082 rdf:type :Student ;
     :studentId "19930829-0082"^^xsd:string ;
     :studentName "TA 82"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10011 .
 
 :student19900317-0083 rdf:type :Student ;
     :studentId "19900317-0083"^^xsd:string ;
     :studentName "TA 83"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10054 .
 
 :student19910214-0084 rdf:type :Student ;
     :studentId "19910214-0084"^^xsd:string ;
     :studentName "TA 84"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10031 .
 
 :student19901002-0085 rdf:type :Student ;
     :studentId "19901002-0085"^^xsd:string ;
     :studentName "TA 85"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10031 .
 
 :student19930228-0086 rdf:type :Student ;
     :studentId "19930228-0086"^^xsd:string ;
     :studentName "TA 86"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10011 .
 
 :student19901108-0087 rdf:type :Student ;
     :studentId "19901108-0087"^^xsd:string ;
     :studentName "TA 87"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10051 .
 
 :student19920826-0088 rdf:type :Student ;
     :studentId "19920826-0088"^^xsd:string ;
     :studentName "TA 88"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10034 .
 
 :student19900426-0089 rdf:type :Student ;
     :studentId "19900426-0089"^^xsd:string ;
     :studentName "TA 89"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10053 .
 
 :student19900902-0090 rdf:type :Student ;
     :studentId "19900902-0090"^^xsd:string ;
     :studentName "TA 90"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10071 .
 
 :student19911025-0091 rdf:type :Student ;
     :studentId "19911025-0091"^^xsd:string ;
     :studentName "TA 91"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10051 .
 
 :student19910817-0092 rdf:type :Student ;
     :studentId "19910817-0092"^^xsd:string ;
     :studentName "TA 92"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10053 .
 
 :student19920504-0093 rdf:type :Student ;
     :studentId "19920504-0093"^^xsd:string ;
     :studentName "TA 93"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10014 .
 
 :student19921201-0094 rdf:type :Student ;
     :studentId "19921201-0094"^^xsd:string ;
     :studentName "TA 94"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10012 .
 
 :student19900128-0095 rdf:type :Student ;
     :studentId "19900128-0095"^^xsd:string ;
     :studentName "TA 95"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10031 .
 
 :student19910327-0096 rdf:type :Student ;
     :studentId "19910327-0096"^^xsd:string ;
     :studentName "TA 96"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10013 .
 
 :student19921208-0097 rdf:type :Student ;
     :studentId "19921208-0097"^^xsd:string ;
     :studentName "TA 97"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10071 .
 
 :student19920217-0098 rdf:type :Student ;
     :studentId "19920217-0098"^^xsd:string ;
     :studentName "TA 98"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10072 .
 
 :student19931231-0099 rdf:type :Student ;
     :studentId "19931231-0099"^^xsd:string ;
     :studentName "TA 99"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10053 .
 
 :student19930709-0100 rdf:type :Student ;
     :studentId "19930709-0100"^^xsd:string ;
     :studentName "TA 100"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10052 .
 
 :student19921218-0101 rdf:type :Student ;
     :studentId "19921218-0101"^^xsd:string ;
     :studentName "TA 101"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10053 .
 
 :student19910404-0102 rdf:type :Student ;
     :studentId "19910404-0102"^^xsd:string ;
     :studentName "TA 102"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10051 .
 
 :student19910403-0103 rdf:type :Student ;
     :studentId "19910403-0103"^^xsd:string ;
     :studentName "TA 103"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10042 .
 
 :student19900119-0104 rdf:type :Student ;
     :studentId "19900119-0104"^^xsd:string ;
     :studentName "TA 104"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10061 .
 
 :student19900307-0105 rdf:type :Student ;
     :studentId "19900307-0105"^^xsd:string ;
     :studentName "TA 105"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10032 .
 
 :student19930414-0106 rdf:type :Student ;
     :studentId "19930414-0106"^^xsd:string ;
     :studentName "TA 106"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10072 .
 
 :student19920316-0107 rdf:type :Student ;
     :studentId "19920316-0107"^^xsd:string ;
     :studentName "TA 107"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19921123-0108 rdf:type :Student ;
     :studentId "19921123-0108"^^xsd:string ;
     :studentName "TA 108"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10073 .
 
 :student19920917-0109 rdf:type :Student ;
     :studentId "19920917-0109"^^xsd:string ;
     :studentName "TA 109"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10033 .
 
 :student19930906-0110 rdf:type :Student ;
     :studentId "19930906-0110"^^xsd:string ;
     :studentName "TA 110"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10052 .
 
 :student19901026-0111 rdf:type :Student ;
     :studentId "19901026-0111"^^xsd:string ;
     :studentName "TA 111"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10051 .
 
 :student19900430-0112 rdf:type :Student ;
     :studentId "19900430-0112"^^xsd:string ;
     :studentName "TA 112"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10071 .
 
 :student19900701-0113 rdf:type :Student ;
     :studentId "19900701-0113"^^xsd:string ;
     :studentName "TA 113"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10033 .
 
 :student19900902-0114 rdf:type :Student ;
     :studentId "19900902-0114"^^xsd:string ;
     :studentName "TA 114"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10014 .
 
 :student19920505-0115 rdf:type :Student ;
     :studentId "19920505-0115"^^xsd:string ;
     :studentName "TA 115"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10032 .
 
 :student19900818-0116 rdf:type :Student ;
     :studentId "19900818-0116"^^xsd:string ;
     :studentName "TA 116"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10073 .
 
 :student19930512-0117 rdf:type :Student ;
     :studentId "19930512-0117"^^xsd:string ;
     :studentName "TA 117"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10052 .
 
 :student19931226-0118 rdf:type :Student ;
     :studentId "19931226-0118"^^xsd:string ;
     :studentName "TA 118"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10031 .
 
 :student19901011-0119 rdf:type :Student ;
     :studentId "19901011-0119"^^xsd:string ;
     :studentName "TA 119"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10074 .
 
 :student19921127-0120 rdf:type :Student ;
     :studentId "19921127-0120"^^xsd:string ;
     :studentName "TA 120"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10053 .
 
 :student19920320-0121 rdf:type :Student ;
     :studentId "19920320-0121"^^xsd:string ;
     :studentName "TA 121"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10013 .
 
 :student19910822-0122 rdf:type :Student ;
     :studentId "19910822-0122"^^xsd:string ;
     :studentName "TA 122"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10042 .
 
 :student19900909-0123 rdf:type :Student ;
     :studentId "19900909-0123"^^xsd:string ;
     :studentName "TA 123"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10012 .
 
 :student19900616-0124 rdf:type :Student ;
     :studentId "19900616-0124"^^xsd:string ;
     :studentName "TA 124"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10001 .
 
 :student19901219-0125 rdf:type :Student ;
     :studentId "19901219-0125"^^xsd:string ;
     :studentName "TA 125"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10014 .
 
 :student19900723-0126 rdf:type :Student ;
     :studentId "19900723-0126"^^xsd:string ;
     :studentName "TA 126"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10061 .
 
 :student19930616-0127 rdf:type :Student ;
     :studentId "19930616-0127"^^xsd:string ;
     :studentName "TA 127"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19910927-0128 rdf:type :Student ;
     :studentId "19910927-0128"^^xsd:string ;
     :studentName "TA 128"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10041 .
 
 :student19921002-0129 rdf:type :Student ;
     :studentId "19921002-0129"^^xsd:string ;
     :studentName "TA 129"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10031 .
 
 :student19900801-0130 rdf:type :Student ;
     :studentId "19900801-0130"^^xsd:string ;
     :studentName "TA 130"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10014 .
 
 :student19910403-0131 rdf:type :Student ;
     :studentId "19910403-0131"^^xsd:string ;
     :studentName "TA 131"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10052 .
 
 :student19930326-0132 rdf:type :Student ;
     :studentId "19930326-0132"^^xsd:string ;
     :studentName "TA 132"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2017"^^xsd:integer ;
     :enrolledIn :programme10042 .
 
 :student19910101-0133 rdf:type :Student ;
     :studentId "19910101-0133"^^xsd:string ;
     :studentName "TA 133"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10014 .
 
 :student19900511-0134 rdf:type :Student ;
     :studentId "19900511-0134"^^xsd:string ;
     :studentName "TA 134"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2016"^^xsd:integer ;
     :enrolledIn :programme10034 .
 
 :student19930302-0135 rdf:type :Student ;
     :studentId "19930302-0135"^^xsd:string ;
     :studentName "TA 135"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10031 .
 
 :student19910921-0136 rdf:type :Student ;
     :studentId "19910921-0136"^^xsd:string ;
     :studentName "TA 136"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10072 .
 
 :student19930919-0137 rdf:type :Student ;
     :studentId "19930919-0137"^^xsd:string ;
     :studentName "TA 137"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2020"^^xsd:integer ;
     :enrolledIn :programme10001 .
 
 :student19900701-0138 rdf:type :Student ;
     :studentId "19900701-0138"^^xsd:string ;
     :studentName "TA 138"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2019"^^xsd:integer ;
     :enrolledIn :programme10034 .
 
 :student19930221-0139 rdf:type :Student ;
     :studentId "19930221-0139"^^xsd:string ;
     :studentName "TA 139"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2021"^^xsd:integer ;
     :enrolledIn :programme10052 .
 
 :student19900211-0140 rdf:type :Student ;
     :studentId "19900211-0140"^^xsd:string ;
     :studentName "TA 140"^^xsd:string ;
-    :graduated "False"^^xsd:boolean ;
+    :graduated "false"^^xsd:boolean ;
     :studentEnrollmentYear "2018"^^xsd:integer ;
     :enrolledIn :programme10031 .
 
